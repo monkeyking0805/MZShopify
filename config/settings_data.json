@@ -1,0 +1,3628 @@
+{
+  "current": {
+    "color_background": "#ffffff",
+    "color_headings": "#1d1d1d",
+    "color_text": "#1d1d1d",
+    "color_text_light": "#949494",
+    "color_links": "#454545",
+    "color_button_background": "#000000",
+    "color_button_text": "#ffffff",
+    "color_button_secondary_background": "#ffffff",
+    "color_button_secondary_text": "#262626",
+    "color_button_secondary_border": "#000000",
+    "color_header_background": "#ffffff",
+    "color_header_text": "#1d1d1d",
+    "color_input_text": "#4d4d4d",
+    "color_input_background": "#ffffff",
+    "color_input_border": "#dddddd",
+    "color_product_sale_accent": "#e91f00",
+    "color_product_review_star": "#ffd241",
+    "color_footer_background": "#eeeeee",
+    "color_footer_text": "#1d1d1d",
+    "color_overlay": "#000000",
+    "overlay_opacity": 50,
+    "type_size_base": 16,
+    "type_heading": "montserrat_n8",
+    "type_heading_size": "1.2",
+    "type_heading_capitalize": false,
+    "type_heading_spacing": -3,
+    "type_body": "sans-serif",
+    "type_menu": "nunito_sans_n7",
+    "type_menu_capitalize": false,
+    "type_menu_spacing": -1,
+    "type_button": "nunito_sans_n7",
+    "type_button_capitalize": false,
+    "type_button_spacing": 0,
+    "type_section": "montserrat_n8",
+    "type_section_capitalize": false,
+    "type_section_spacing": 0,
+    "reduce_animations": true,
+    "layout_max_width": 1600,
+    "product_show_vendor": true,
+    "product_show_sku": true,
+    "product_option_style": "radio",
+    "product_sales_badge": true,
+    "product_sales_badge_style": "money",
+    "product_social_sharing": true,
+    "product_ratings_reviews": true,
+    "product_ratings_star_display": "prod-page",
+    "product_grid_show_second_image": false,
+    "product_grid_emphasize_price": true,
+    "product_grid_image_style": "natural",
+    "product_grid_image_crop": false,
+    "product_grid_show_quickshop": "disabled",
+    "product_grid_show_atc": "always",
+    "quickshop_select_first_available_variant": false,
+    "quickshop_show_dcb": true,
+    "quickshop_product_cart_redirect": false,
+    "quickshop_gallery_thumbnail_position": "left",
+    "quickshop_gallery_video_autoplay": false,
+    "quickshop_gallery_video_looping": false,
+    "quickshop_gallery_hover_zoom": "disabled",
+    "swatches_enable": false,
+    "swatches_swatch_trigger": "Color",
+    "swatches_shape": "square",
+    "swatches_product_card_size": 32,
+    "swatches_product_page_size": 64,
+    "swatches_option_style": "variant_image",
+    "swatches_custom_colors": "",
+    "social_facebook": "https:\/\/m.facebook.com\/MuzzleLoaderscom\/",
+    "social_twitter": "https:\/\/twitter.com\/muzzle_loaders",
+    "social_instagram": "https:\/\/www.instagram.com\/muzzleloaders\/",
+    "social_tumblr": "",
+    "social_vimeo": "",
+    "social_youtube": "https:\/\/www.youtube.com\/user\/GemmerAndClemens",
+    "social_linkedin": "",
+    "social_email": "sales@muzzle-loaders.com",
+    "favicon": "shopify:\/\/shop_images\/favicon-small-flares.png",
+    "enable_checkout_lock_icon": true,
+    "continue_shopping_url": "shopify:\/\/collections\/all",
+    "continue_url_cart": true,
+    "continue_url_404": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/secure-checkout-2021-5.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "large",
+    "checkout_body_background_color": "#fdfdfd",
+    "checkout_sidebar_background_color": "#f4f4f4",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#1d1d1d",
+    "checkout_button_color": "#000000",
+    "product_enable_recently_viewed_products": true,
+    "product_slideshow_style": "natural",
+    "gallery_thumbnail_position": "below",
+    "enable_image_zoom": false,
+    "image_zoom_level": "min",
+    "product_grid_quick_shop": true,
+    "product_grid_quick_buy": true,
+    "social_google": "",
+    "show_dcb": false,
+    "product_grid_quick_look": true,
+    "font_body": "Google_Lato_400,400i,700,700i",
+    "font_heading": "\"League Spartan\", sans-serif",
+    "quickshop_ratings": true,
+    "quickshop_redirect_to_cart": false,
+    "quickshop_sales_badge": true,
+    "quickshop_sales_badge_style": "percentile_save",
+    "quickshop_ratings_reviews": true,
+    "quickshop_enable_social_sharing": true,
+    "product_cart_redirect": false,
+    "show_breadcrumbs": true,
+    "quickshop_show_vendor": true,
+    "sections": {
+      "static-header": {
+        "type": "static-header",
+        "blocks": {
+          "ff9e6854-1318-4c95-a027-c4108d1e961d": {
+            "type": "meganav_images",
+            "settings": {
+              "meganav_trigger": "Optics",
+              "text_1": "",
+              "link_1": "",
+              "position_1": "last",
+              "size_1": "medium",
+              "text_2": "",
+              "link_2": "",
+              "position_2": "first",
+              "size_2": "small"
+            }
+          },
+          "01ced85c-2d6f-4215-9915-a96d064263cf": {
+            "type": "meganav_sidenav",
+            "settings": {
+              "meganav_trigger": "Brands",
+              "submenu_layout": "collection_images",
+              "image_aspect_ratio": "natural",
+              "image_crop": true
+            }
+          },
+          "5ec32cbe-40f4-4be9-9220-4a532d5f33a7": {
+            "type": "meganav_sidenav",
+            "settings": {
+              "meganav_trigger": "Rifles",
+              "submenu_layout": "collection_images",
+              "image_aspect_ratio": "natural",
+              "image_crop": true
+            }
+          },
+          "6cf01eec-718f-4c99-9f89-44e5ed0f8d9b": {
+            "type": "meganav_sidenav",
+            "settings": {
+              "meganav_trigger": "Pistols",
+              "submenu_layout": "collection_images",
+              "image_aspect_ratio": "natural",
+              "image_crop": true
+            }
+          },
+          "aeecd48c-fc34-49a2-a24d-84755cede768": {
+            "type": "meganav_sidenav",
+            "disabled": true,
+            "settings": {
+              "meganav_trigger": "Accessories",
+              "submenu_layout": "product_images",
+              "image_aspect_ratio": "natural",
+              "image_crop": true
+            }
+          },
+          "372e1e6d-8e31-4ca5-be8a-44c26300d5b1": {
+            "type": "meganav_images",
+            "settings": {
+              "meganav_trigger": "Cleaning",
+              "text_1": "",
+              "link_1": "#",
+              "position_1": "last",
+              "size_1": "small",
+              "text_2": "",
+              "link_2": "",
+              "position_2": "last",
+              "size_2": "small"
+            }
+          },
+          "cb6296fe-684e-4623-bfe8-747bf377b348": {
+            "type": "meganav_images",
+            "settings": {
+              "meganav_trigger": "Accessories",
+              "text_1": "",
+              "link_1": "",
+              "position_1": "first",
+              "size_1": "small",
+              "text_2": "",
+              "link_2": "",
+              "position_2": "first",
+              "size_2": "small"
+            }
+          },
+          "d5366013-b966-4dca-bc92-6adc2b114c3f": {
+            "type": "meganav_images",
+            "disabled": true,
+            "settings": {
+              "meganav_trigger": "Pistols",
+              "text_1": "",
+              "link_1": "",
+              "position_1": "first",
+              "size_1": "small",
+              "text_2": "",
+              "link_2": "",
+              "position_2": "first",
+              "size_2": "small"
+            }
+          }
+        },
+        "block_order": [
+          "ff9e6854-1318-4c95-a027-c4108d1e961d",
+          "01ced85c-2d6f-4215-9915-a96d064263cf",
+          "5ec32cbe-40f4-4be9-9220-4a532d5f33a7",
+          "6cf01eec-718f-4c99-9f89-44e5ed0f8d9b",
+          "aeecd48c-fc34-49a2-a24d-84755cede768",
+          "372e1e6d-8e31-4ca5-be8a-44c26300d5b1",
+          "cb6296fe-684e-4623-bfe8-747bf377b348",
+          "d5366013-b966-4dca-bc92-6adc2b114c3f"
+        ],
+        "settings": {
+          "sticky_header": true,
+          "full_width_header": true,
+          "logo": "shopify:\/\/shop_images\/horizontal-with-no-com.png",
+          "logo_height": 100,
+          "logo_width": 350,
+          "filter_search_by": "product_type",
+          "enable_live_search": true,
+          "show_mobile_search_bar": false,
+          "enable_live_search_images": true,
+          "enable_live_search_articles_pages": true,
+          "quick_links": "quick-search-links",
+          "menu": "main-menu",
+          "secondary_menu": "secondary-menu",
+          "small_promo_heading": "Have Questions?",
+          "small_promo_text": "<p>Call 1(855) 236-5000<\/p>",
+          "small_promo_text_mobile": "",
+          "small_promo_link": "tel:1-855-236-5000",
+          "small_promo_icon": "icon-chat",
+          "cart_icon": "icon-cart"
+        }
+      },
+      "1520634789686": {
+        "type": "dynamic-featured-product",
+        "settings": {
+          "product": "traditions-kentucky-rifle-kit-flintlock",
+          "sold_out_options": "hidden",
+          "select_first_available_variant": false,
+          "show_dcb": false,
+          "product_cart_redirect": false,
+          "gallery_aspect_ratio": "natural",
+          "gallery_image_crop": false,
+          "gallery_thumbnail_position": "left",
+          "gallery_video_autoplay": false,
+          "gallery_video_looping": false,
+          "gallery_hover_zoom": "disabled"
+        }
+      },
+      "static-blog": {
+        "type": "static-blog",
+        "settings": {
+          "show_rss_link": true,
+          "show_date": true,
+          "show_author": false,
+          "show_excerpt": true,
+          "posts_per_page_range": 9
+        }
+      },
+      "1493143038057": {
+        "type": "dynamic-promo-mosaic",
+        "blocks": {
+          "1493143038057-0": {
+            "type": "promotion",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/getting-started-muzzleloaders-1026x433.jpg",
+              "title": "Rifles & Kits",
+              "text": "Shop our giant selection of black powder rifles and kits!",
+              "color": "#ffffff",
+              "block_link": "shopify:\/\/collections\/muzzleloader-kits",
+              "button_text": "",
+              "button_style": "primary",
+              "show_overlay": true,
+              "background": "#000000",
+              "opacity": 30
+            }
+          },
+          "1493143038057-1": {
+            "type": "promotion",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/shop-muzzleloader-supplies-504x433-3.jpg",
+              "title": "Muzzleloader Supplies",
+              "text": "No matter the brand we have what you need!",
+              "color": "#ffffff",
+              "block_link": "shopify:\/\/collections\/accessories",
+              "button_text": "",
+              "button_style": "primary",
+              "show_overlay": true,
+              "background": "#000000",
+              "opacity": 31
+            }
+          },
+          "1493143038057-2": {
+            "type": "promotion",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/thor-muzzleloader-bullets-504x433-1.jpg",
+              "title": "Muzzleloader Bullets",
+              "text": "High-power long range bullets and conicals",
+              "color": "#ffffff",
+              "block_link": "shopify:\/\/collections\/bullets",
+              "button_text": "",
+              "button_style": "primary",
+              "show_overlay": true,
+              "background": "#000000",
+              "opacity": 7
+            }
+          },
+          "1493143583401": {
+            "type": "promotion",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/muzzleloader-scope-packages-1026x433.jpg",
+              "title": "Custom Packages",
+              "text": "Build the muzzleloader package you want! Select the rifle, rings, scope and more.",
+              "color": "#ffffff",
+              "block_link": "shopify:\/\/pages\/custom-muzzleloader-packages-info",
+              "button_text": "",
+              "button_style": "primary",
+              "show_overlay": false,
+              "background": "",
+              "opacity": 50
+            }
+          }
+        },
+        "block_order": [
+          "1493143038057-0",
+          "1493143038057-1",
+          "1493143038057-2",
+          "1493143583401"
+        ],
+        "settings": {
+          "title": "",
+          "section_height": "small",
+          "text_alignment": "top-left",
+          "maintain_aspect_ratio": true,
+          "compress_blocks": false
+        }
+      },
+      "static-footer": {
+        "type": "static-footer",
+        "blocks": {
+          "1493171899575": {
+            "type": "social_accounts",
+            "settings": {}
+          },
+          "static-footer-0": {
+            "type": "menu",
+            "settings": {
+              "menu": "about-us"
+            }
+          },
+          "1498182586280": {
+            "type": "menu",
+            "settings": {
+              "menu": "help-resources"
+            }
+          },
+          "2ae16123-a99e-4c1c-a973-8f7fec15ecca": {
+            "type": "menu",
+            "settings": {
+              "menu": "site-information"
+            }
+          },
+          "static-footer-1": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Subscribe to our Newsletter",
+              "text": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1493171899575",
+          "static-footer-0",
+          "1498182586280",
+          "2ae16123-a99e-4c1c-a973-8f7fec15ecca",
+          "static-footer-1"
+        ],
+        "settings": {
+          "payment_icons": true,
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "additional_menu": "footer",
+          "legal-notice": "<p>Legal Notice - Muzzle-Loaders.com observes all Federal, State and local laws. Everything for sale on Muzzle-Loaders.com is completely legal to own, trade, transport, and sell within the United States of America. Every musket and muzzleloader rifle, kit or parts sold by Muzzle-Loaders.com is considered primitive or antique weaponry according to guidelines provided by the US Bureau of Alcohol, Tobacco, Firearms and Explosives (BATF). Title 18, U.S. Code, Section 921(a)(16) defines antique firearms as all guns manufactured prior to 1899. This law exempts antique firearms from any form of gun control or special engineering. Muzzle-Loaders.com offers only items are that are considered primitive or antique weapons by the ATF and are not considered firearms. Muzzle-Loaders.com works diligently to be aware of these ever-changing laws and obeys them accordingly. However, it is ultimately the responsibility of the buyer to be in compliance of laws that govern their specific locale. By placing an order, the buyer represents that he\/she is in compliance with the law and will utilize the items in a lawful manner. All orders are subject to acceptance by Muzzle-Loaders.com, which reserves the right to refuse any order. We assume no liability associated with misuse of our products.<\/p>"
+        }
+      },
+      "1493145778308": {
+        "type": "dynamic-promo-grid",
+        "blocks": {
+          "ea3e2541-5917-4d6e-a810-44a477e32117": {
+            "type": "promotion",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/muzzleloader-scopes-2.jpg",
+              "background_position": "center-center",
+              "title": "Scopes",
+              "text": "Shop the top brands for the best muzzleloader scopes",
+              "color": "#ffffff",
+              "block_link": "shopify:\/\/collections\/scopes",
+              "button_text": "Shop Scopes",
+              "button_style": "primary",
+              "show_overlay": true,
+              "background": "#000000",
+              "opacity": 1
+            }
+          },
+          "9277da70-592e-4d14-9d97-c94599d2e88a": {
+            "type": "promotion",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/muzzleloader-brass-cleaning-jag-50-caliber-mz1462.jpg",
+              "background_position": "center-center",
+              "title": "Brass Jags",
+              "text": "Find the cleaning or loading jag you need for your rifle",
+              "color": "#ffffff",
+              "block_link": "shopify:\/\/collections\/muzzleloader-jags",
+              "button_text": "Shop Jags",
+              "button_style": "primary",
+              "show_overlay": true,
+              "background": "#1e1e1e",
+              "opacity": 10
+            }
+          },
+          "088c4496-9bd9-4845-bddc-936fea6faff1": {
+            "type": "promotion",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/muzzleloader-bullet-starter.jpg",
+              "background_position": "center-left",
+              "title": "Starters",
+              "text": "Bullet starters are an essential tool for any muzzleloader",
+              "color": "#ffffff",
+              "block_link": "shopify:\/\/collections\/muzzleloader-bullet-starters",
+              "button_text": "Shop Starters",
+              "button_style": "primary",
+              "show_overlay": true,
+              "background": "#1e1e1e",
+              "opacity": 1
+            }
+          },
+          "1493145778308-0": {
+            "type": "promotion",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/collections-muzzleloader-cappers-2.jpg",
+              "background_position": "center-center",
+              "title": "Cappers",
+              "text": "Everything from #11 to 209 primer cappers and decappers",
+              "color": "#ffffff",
+              "block_link": "shopify:\/\/collections\/muzzleloader-cappers-loading",
+              "button_text": "Shop Cappers",
+              "button_style": "primary",
+              "show_overlay": true,
+              "background": "#1e1e1e",
+              "opacity": 10
+            }
+          }
+        },
+        "block_order": [
+          "ea3e2541-5917-4d6e-a810-44a477e32117",
+          "9277da70-592e-4d14-9d97-c94599d2e88a",
+          "088c4496-9bd9-4845-bddc-936fea6faff1",
+          "1493145778308-0"
+        ],
+        "settings": {
+          "title": "",
+          "section_height": "medium",
+          "section_columns": 4,
+          "text_alignment": "top-left"
+        }
+      },
+      "static-collection": {
+        "type": "static-collection",
+        "blocks": {
+          "1498186879532": {
+            "type": "menu",
+            "settings": {
+              "menu": "",
+              "show_prod_count": true
+            }
+          },
+          "1498186836236": {
+            "type": "menu",
+            "settings": {
+              "menu": "",
+              "show_prod_count": true
+            }
+          },
+          "1572651808624": {
+            "type": "menu",
+            "settings": {
+              "menu": "",
+              "show_prod_count": true
+            }
+          }
+        },
+        "block_order": [
+          "1498186879532",
+          "1498186836236",
+          "1572651808624"
+        ],
+        "settings": {
+          "show_collection_image": true,
+          "products_per_page_range": 24,
+          "products_per_row": "4",
+          "sort_by": true,
+          "show_by": true,
+          "grid_list": true,
+          "default_view": "grid-view",
+          "show_sidebar": true,
+          "filter_style": "tags",
+          "filter_groups": "expand_first",
+          "show_filter_product_count": false,
+          "filter_limit": "5",
+          "filter_position": "above_menus",
+          "grid_categories": "",
+          "custom_ordered_categories": "",
+          "custom_ordered_tags": "",
+          "excluded_tags": "",
+          "excluded_groups": "",
+          "menu_depth_range": 2
+        }
+      },
+      "1493163784784": {
+        "type": "dynamic-featured-collection",
+        "blocks": {
+          "d6f2966e-cbe1-4cff-b5a2-95ffba9a5216": {
+            "type": "title_card",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/muzzleloader-deals_3001f8ad-4675-4739-8700-5d8442b862d6.jpg",
+              "horizontal_size": "1",
+              "vertical_size": "1",
+              "text_alignment": "center-center",
+              "pre_heading": "Clearance Items",
+              "heading": "Save up to 40%",
+              "text_color": "#ffffff",
+              "cta_label": "Shop Sale",
+              "overlay_color": "#000000",
+              "overlay_opacity": 30
+            }
+          }
+        },
+        "block_order": [
+          "d6f2966e-cbe1-4cff-b5a2-95ffba9a5216"
+        ],
+        "settings": {
+          "title": "Deals of the Week",
+          "layout": "grid",
+          "collection": "muzzleloader-clearance",
+          "product_count": 4,
+          "cta_label": "",
+          "cta_button_style": "secondary"
+        }
+      },
+      "static-product": {
+        "type": "static-product",
+        "settings": {
+          "layout": "layout--two-col",
+          "sold_out_options": "selectable",
+          "select_first_available_variant": false,
+          "show_dcb": false,
+          "product_cart_redirect": false,
+          "gallery_aspect_ratio": "natural",
+          "gallery_image_crop": false,
+          "gallery_thumbnail_position": "left",
+          "gallery_video_autoplay": false,
+          "gallery_video_looping": false,
+          "gallery_hover_zoom": "disabled",
+          "gallery_click_to_zoom": "desktop"
+        }
+      },
+      "static-announcement": {
+        "type": "static-announcement",
+        "settings": {
+          "show_announcement": true,
+          "homepage_announcement": false,
+          "announcement_text": "Best Prices, Fast Shipping & Expert Advice!",
+          "announcement_text_mobile": "Best Prices, Fast Shipping & Expert Advice!",
+          "announcement_link": "",
+          "announcement_color": "#ffffff",
+          "announcement_background": "#262626"
+        }
+      },
+      "static-product-recommendations": {
+        "type": "static-product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "product_recommendations_heading": "Related Products"
+        }
+      },
+      "static-product-reviews": {
+        "type": "static-product-reviews",
+        "settings": {}
+      },
+      "static-recently-viewed": {
+        "type": "static-recently-viewed",
+        "settings": {
+          "enable_recently_viewed_products": true
+        }
+      },
+      "16141154082496c2cc": {
+        "type": "dynamic-slideshow",
+        "blocks": {
+          "f8b35607-bcfe-488d-8392-df19a3a90fc2": {
+            "type": "slide",
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/cva-optima-v2-pistol.jpg",
+              "mobile_background_image": "shopify:\/\/shop_images\/cva-optima-v2-pistol-mobile.jpg",
+              "title": "CVA™ Optima Pistol",
+              "text": "The best selling inline muzzleloader pistol in the world!",
+              "color": "#ffffff",
+              "link": "shopify:\/\/products\/cva-optima-v2-pistol-pp221sm",
+              "text_alignment": "center",
+              "button_one_label": "Shop Now",
+              "button_one_link": "shopify:\/\/products\/cva-optima-v2-pistol-pp221sm",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "show_overlay": true,
+              "overlay_color": "#000000",
+              "overlay_opacity": 22
+            }
+          },
+          "6b2b2c1d-221f-4144-8d84-0b7c388052a9": {
+            "type": "slide",
+            "disabled": true,
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/traditions-nitrofire-muzzleloaders-sale.jpg",
+              "mobile_background_image": "shopify:\/\/shop_images\/traditions-nitrofire-muzzleloaders-sale-mobile.jpg",
+              "title": "Traditions™ NitroFire Sale",
+              "text": "Save up to $80 on select Nitrofire™ muzzleloader rifles. Sale ends soon!",
+              "color": "#ffffff",
+              "link": "shopify:\/\/collections\/traditions-nitro-fire-muzzleloaders",
+              "text_alignment": "center",
+              "button_one_label": "Shop Now",
+              "button_one_link": "shopify:\/\/collections\/traditions-nitro-fire-muzzleloaders",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "show_overlay": true,
+              "overlay_color": "#000000",
+              "overlay_opacity": 27
+            }
+          },
+          "16141154082496c2cc-1": {
+            "type": "slide",
+            "disabled": true,
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/investarm-muzzleloader-slider.jpg",
+              "mobile_background_image": "shopify:\/\/shop_images\/investarm-muzzleloaders-mobile-2.jpg",
+              "title": "Investarm Muzzleloaders",
+              "text": "Hand-crafted Italian made black powder rifles",
+              "color": "#ffffff",
+              "link": "",
+              "text_alignment": "center",
+              "button_one_label": "Shop Now",
+              "button_one_link": "shopify:\/\/collections\/investarm-muzzleloaders",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "secondary",
+              "show_overlay": true,
+              "overlay_color": "#000000",
+              "overlay_opacity": 10
+            }
+          },
+          "a3b19977-aa97-4d37-a408-3768434e69b2": {
+            "type": "slide",
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/cva-accura-lr-x-muzzleloaders.jpg",
+              "mobile_background_image": "shopify:\/\/shop_images\/cva-accura-lr-x-muzzleloaders-mobile.jpg",
+              "title": "CVA™ Accura X-Treme Muzzleloaders",
+              "text": "New for 2021 shop our selection of CVA Accura MR-X and LR-X models",
+              "color": "#ffffff",
+              "link": "shopify:\/\/collections\/cva-accura-muzzleloaders",
+              "text_alignment": "center",
+              "button_one_label": "Shop Now",
+              "button_one_link": "shopify:\/\/collections\/cva-accura-muzzleloaders",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "show_overlay": true,
+              "overlay_color": "#000000",
+              "overlay_opacity": 40
+            }
+          },
+          "63696db6-6439-49d6-a374-e197fdd4db18": {
+            "type": "slide",
+            "disabled": true,
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/muzzleloaders-black-friday-2021-3_682b5653-4271-4aee-bfc4-5b950d3cad47.jpg",
+              "mobile_background_image": "shopify:\/\/shop_images\/muzzleloaders-black-friday-2021-mobile.jpg",
+              "title": "",
+              "text": "",
+              "color": "#ffffff",
+              "link": "shopify:\/\/collections\/muzzleloader-clearance",
+              "text_alignment": "left",
+              "button_one_label": "",
+              "button_one_link": "",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "show_overlay": false,
+              "overlay_color": "#000000",
+              "overlay_opacity": 1
+            }
+          },
+          "900c9032-be80-45a7-9ec5-5f15b04c064a": {
+            "type": "slide",
+            "disabled": true,
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/muzzleloaders-cyber-monday-2021-2.jpg",
+              "mobile_background_image": "shopify:\/\/shop_images\/muzzleloaders-cyber-monday-2021-mobile.jpg",
+              "title": "",
+              "text": "",
+              "color": "#ffffff",
+              "link": "shopify:\/\/collections\/muzzleloader-clearance",
+              "text_alignment": "center",
+              "button_one_label": "",
+              "button_one_link": "",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "show_overlay": false,
+              "overlay_color": "#000000",
+              "overlay_opacity": 50
+            }
+          },
+          "d386b5f2-d680-4d83-8ea9-77cc2d762c4f": {
+            "type": "slide",
+            "disabled": true,
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/muzzleloader-rifle-kits-for-sale.jpg",
+              "mobile_background_image": "shopify:\/\/shop_images\/muzzleloader-rifle-kits-for-sale-mobile.jpg",
+              "title": "Traditions™ Rifle & Pistol Kits",
+              "text": "Enjoy the freedom in building your very own muzzleloader!",
+              "color": "#ffffff",
+              "link": "shopify:\/\/collections\/muzzleloader-kits",
+              "text_alignment": "center",
+              "button_one_label": "Shop Kits Now",
+              "button_one_link": "shopify:\/\/collections\/muzzleloader-kits",
+              "button_one_style": "primary",
+              "button_two_label": "",
+              "button_two_link": "",
+              "button_two_style": "primary",
+              "show_overlay": true,
+              "overlay_color": "#000000",
+              "overlay_opacity": 1
+            }
+          }
+        },
+        "block_order": [
+          "f8b35607-bcfe-488d-8392-df19a3a90fc2",
+          "6b2b2c1d-221f-4144-8d84-0b7c388052a9",
+          "16141154082496c2cc-1",
+          "a3b19977-aa97-4d37-a408-3768434e69b2",
+          "63696db6-6439-49d6-a374-e197fdd4db18",
+          "900c9032-be80-45a7-9ec5-5f15b04c064a",
+          "d386b5f2-d680-4d83-8ea9-77cc2d762c4f"
+        ],
+        "settings": {
+          "enable_autoplay": true,
+          "autoplay_duration": 9,
+          "slideshow_width": "full",
+          "slideshow_height": "medium",
+          "slideshow_height_mobile": "x-large",
+          "slideshow_text_below_image": false
+        }
+      },
+      "1614115478e7f12953": {
+        "type": "dynamic-highlights-banner",
+        "disabled": true,
+        "blocks": {
+          "1614115478e7f12953-0": {
+            "type": "highlight",
+            "settings": {
+              "icon": "icon-delivery",
+              "title": "Fast Shipping",
+              "text": "",
+              "link": ""
+            }
+          },
+          "1614115478e7f12953-2": {
+            "type": "highlight",
+            "settings": {
+              "icon": "icon-label-tag",
+              "title": "Best Prices",
+              "text": "",
+              "link": ""
+            }
+          },
+          "1614115478e7f12953-3": {
+            "type": "highlight",
+            "settings": {
+              "icon": "icon-credit-card",
+              "title": "Secure Shopping",
+              "text": "",
+              "link": ""
+            }
+          },
+          "1614115478e7f12953-1": {
+            "type": "highlight",
+            "settings": {
+              "icon": "icon-chat-alternate",
+              "title": "Expert Advice",
+              "text": "",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1614115478e7f12953-0",
+          "1614115478e7f12953-2",
+          "1614115478e7f12953-3",
+          "1614115478e7f12953-1"
+        ],
+        "settings": {
+          "section_spacing": false,
+          "section_width": "content-width",
+          "icon_layout": "center",
+          "color": "#1d1d1d",
+          "icon_color": "#046e82",
+          "background_color": "#ffffff",
+          "mobile_layout": "grid"
+        }
+      },
+      "1614115890cbfc29cf": {
+        "type": "dynamic-testimonials",
+        "blocks": {
+          "1614115890cbfc29cf-2": {
+            "type": "testimonial",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/google-logo.png",
+              "star_rating": "5",
+              "text": "<p>Had a problem with shipping, it was my fault.  Customer Service, was very helpful in solving the problem, they get  a A+ from me.<\/p>",
+              "author": "<p><a href=\"https:\/\/www.google.com\/maps\/contrib\/106770077589941039137\/reviews?hl=en-US\" target=\"_blank\">Edward Sheridan<\/a><\/p>"
+            }
+          },
+          "1614115890cbfc29cf-1": {
+            "type": "testimonial",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/google-logo.png",
+              "star_rating": "5",
+              "text": "<p>Great service; great helpful personal attitude.<\/p>",
+              "author": "<p><a href=\"https:\/\/www.google.com\/maps\/contrib\/106931721805819441137\/reviews?hl=en-US\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/contrib\/106931721805819441137\/reviews?hl=en-US\">Martin Baker<\/a><\/p>"
+            }
+          },
+          "1614115890cbfc29cf-0": {
+            "type": "testimonial",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/martin_baker.png",
+              "star_rating": "5",
+              "text": "<p>Great folks to deal and super fast shipping.<\/p>",
+              "author": "<p><a href=\"https:\/\/www.google.com\/maps\/contrib\/111178709248499770340\/reviews?hl=en-US\" target=\"_blank\">Clarence Weaver<\/a><\/p>"
+            }
+          },
+          "3a3b329f-77d0-4320-9c5f-7eee8b6d5c1c": {
+            "type": "testimonial",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/google-logo.png",
+              "star_rating": "5",
+              "text": "<p>First time buyer it was great, good stuff on time great price. Good as it gets<\/p>",
+              "author": "<p><a href=\"https:\/\/www.google.com\/maps\/contrib\/111766279309114822663\/reviews?hl=en-US\" target=\"_blank\">Randy Boyd<\/a><\/p>"
+            }
+          },
+          "4c1dd98f-4606-4d19-ae97-d1ef82b03040": {
+            "type": "testimonial",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/eduardo.png",
+              "star_rating": "4",
+              "text": "<p>Great customer service, answered all my questions! Keep up the great work!<\/p>",
+              "author": "<p><a href=\"https:\/\/www.google.com\/maps\/contrib\/110820301224809915391\/reviews?hl=en-US\" target=\"_blank\">EduardoG RodriguezJr<\/a><\/p>"
+            }
+          },
+          "04baedac-c5ee-4432-9738-78f248eb6b18": {
+            "type": "testimonial",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Taylor_Hakes.png",
+              "star_rating": "5",
+              "text": "<p>Customer service is on point and shipping is fast.<\/p>",
+              "author": "<p><a href=\"https:\/\/www.google.com\/maps\/contrib\/116695636100739004131\/reviews?hl=en-US\" target=\"_blank\">Taylor Hakes<\/a><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1614115890cbfc29cf-2",
+          "1614115890cbfc29cf-1",
+          "1614115890cbfc29cf-0",
+          "3a3b329f-77d0-4320-9c5f-7eee8b6d5c1c",
+          "4c1dd98f-4606-4d19-ae97-d1ef82b03040",
+          "04baedac-c5ee-4432-9738-78f248eb6b18"
+        ],
+        "settings": {
+          "title": "Testimonials",
+          "image_crop": "circle",
+          "text_size": "large"
+        }
+      },
+      "161411620981c75d5e": {
+        "type": "dynamic-shoppable-image",
+        "blocks": {
+          "161411620981c75d5e-0": {
+            "type": "hotspot",
+            "settings": {
+              "product": "muzzle-loaders-possibles-waist-pack-mz1100",
+              "x_axis": 28,
+              "y_axis": 79
+            }
+          },
+          "161411620981c75d5e-1": {
+            "type": "hotspot",
+            "settings": {
+              "product": "muzzle-loaders-polymer-bullet-starter-with-6-jags-mz1495",
+              "x_axis": 53,
+              "y_axis": 44
+            }
+          },
+          "161411620981c75d5e-2": {
+            "type": "hotspot",
+            "settings": {
+              "product": "muzzle-loaders-breech-plug-multi-tool-mz1212",
+              "x_axis": 61,
+              "y_axis": 11
+            }
+          },
+          "faf48f6e-5707-4f19-8dbc-ddd6b60df25f": {
+            "type": "hotspot",
+            "settings": {
+              "product": "muzzleloader-brass-nipple-pick-mz1582",
+              "x_axis": 30,
+              "y_axis": 23
+            }
+          },
+          "ad761ee7-ba2a-4f6b-bf66-1bc6e95b37eb": {
+            "type": "hotspot",
+            "settings": {
+              "product": "muzzle-loaders-4-in-1-t-loader-mz1509",
+              "x_axis": 87,
+              "y_axis": 39
+            }
+          }
+        },
+        "block_order": [
+          "161411620981c75d5e-0",
+          "161411620981c75d5e-1",
+          "161411620981c75d5e-2",
+          "faf48f6e-5707-4f19-8dbc-ddd6b60df25f",
+          "ad761ee7-ba2a-4f6b-bf66-1bc6e95b37eb"
+        ],
+        "settings": {
+          "title": "Muzzleloader Supplies",
+          "image": "shopify:\/\/shop_images\/muzzleloader-supplies.png",
+          "image_width": "two-thirds",
+          "link_text": "View product",
+          "textbox_title": "Shop Supplies",
+          "textbox_subheading": "<p>We have all the supplies you need to get started in muzzleloading<\/p>",
+          "textbox_button_label": "Shop Now",
+          "textbox_button_link": "shopify:\/\/collections\/accessories",
+          "textbox_button_style": "primary",
+          "textbox_text_alignment": "center",
+          "textbox_text_position": "left"
+        }
+      },
+      "1614116286c7fddaa4": {
+        "type": "dynamic-collection-list",
+        "blocks": {
+          "1614116286c7fddaa4-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "cva-muzzleloaders",
+              "image": "shopify:\/\/shop_images\/cva-muzzleloader-logo-homepage-23.jpg",
+              "title": "CVA"
+            }
+          },
+          "1614116286c7fddaa4-3": {
+            "type": "collection",
+            "settings": {
+              "collection": "traditions-muzzleloaders",
+              "image": "shopify:\/\/shop_images\/Traditions-muzzleloaders-Logo.jpg",
+              "title": "Traditions"
+            }
+          },
+          "1614116286c7fddaa4-4": {
+            "type": "collection",
+            "settings": {
+              "collection": "remington-muzzleloaders",
+              "image": "shopify:\/\/shop_images\/Remington-muzzleloaders-Logo_b02f3fd1-15b1-484b-a738-d53a7ceb7570.jpg",
+              "title": "Remington"
+            }
+          },
+          "357237e1-4187-424c-9610-760379b04576": {
+            "type": "collection",
+            "settings": {
+              "collection": "investarm-muzzleloaders",
+              "image": "shopify:\/\/shop_images\/Investarm-muzzleloaders-Logo.jpg",
+              "title": "Investarm"
+            }
+          },
+          "54868108-2754-49a9-ae4b-8fa4678c2b11": {
+            "type": "collection",
+            "settings": {
+              "collection": "davide-pedersoli-rifles-firearms",
+              "image": "shopify:\/\/shop_images\/davide-pedersoli-logo-4.jpg",
+              "title": "Pedersoli"
+            }
+          },
+          "0928677c-d079-45c9-a415-15c7c8a62d57": {
+            "type": "collection",
+            "settings": {
+              "collection": "lyman",
+              "image": "shopify:\/\/shop_images\/lyman-muzzleloaders-logo.jpg",
+              "title": "Lyman"
+            }
+          },
+          "cac5a899-74f8-499e-ae94-de58e3ca6d95": {
+            "type": "collection",
+            "disabled": true,
+            "settings": {
+              "collection": "thompson-center-muzzleloaders",
+              "title": ""
+            }
+          }
+        },
+        "block_order": [
+          "1614116286c7fddaa4-1",
+          "1614116286c7fddaa4-3",
+          "1614116286c7fddaa4-4",
+          "357237e1-4187-424c-9610-760379b04576",
+          "54868108-2754-49a9-ae4b-8fa4678c2b11",
+          "0928677c-d079-45c9-a415-15c7c8a62d57",
+          "cac5a899-74f8-499e-ae94-de58e3ca6d95"
+        ],
+        "settings": {
+          "title": "Muzzleloader Brands",
+          "thumbnail_columns_desktop": 6,
+          "thumbnail_columns_mobile": 3,
+          "image-crop": "round",
+          "cta_label": "Shop All Brands",
+          "cta_link": "shopify:\/\/collections\/brands",
+          "cta_button_style": "secondary"
+        }
+      },
+      "1614186808567e83f9": {
+        "type": "dynamic-search",
+        "disabled": true,
+        "settings": {
+          "title": "Search",
+          "text": "Use this section to help customers find the products they're looking for.",
+          "placeholder": "What are you looking for?",
+          "filter_search_by": "disabled",
+          "enable_live_search": true,
+          "enable_live_search_images": false,
+          "enable_live_search_articles_pages": false,
+          "position": "center-center",
+          "show-overlay": false,
+          "color": "#ffffff",
+          "background": "#000000",
+          "opacity": 50
+        }
+      },
+      "1614189245102837c3": {
+        "type": "dynamic-promo-grid",
+        "disabled": true,
+        "blocks": {
+          "1614189245102837c3-0": {
+            "type": "promotion",
+            "settings": {
+              "background_position": "center-center",
+              "title": "Grid",
+              "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+              "color": "#ffffff",
+              "block_link": "",
+              "button_text": "",
+              "button_style": "secondary",
+              "show_overlay": false,
+              "background": "rgba(0,0,0,0)",
+              "opacity": 50
+            }
+          },
+          "1614189245102837c3-1": {
+            "type": "promotion",
+            "settings": {
+              "background_position": "center-center",
+              "title": "Grid",
+              "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+              "color": "#ffffff",
+              "block_link": "",
+              "button_text": "",
+              "button_style": "primary",
+              "show_overlay": false,
+              "background": "rgba(0,0,0,0)",
+              "opacity": 50
+            }
+          }
+        },
+        "block_order": [
+          "1614189245102837c3-0",
+          "1614189245102837c3-1"
+        ],
+        "settings": {
+          "title": "",
+          "section_height": "small",
+          "section_columns": 2,
+          "text_alignment": "center-left"
+        }
+      },
+      "1614191055f69adc20": {
+        "type": "dynamic-featured-collection",
+        "disabled": true,
+        "blocks": {
+          "cdedffd7-b007-4928-a751-e256b57e6fb1": {
+            "type": "view_all_card",
+            "settings": {
+              "text_alignment": "center-center",
+              "pre_heading": "View all",
+              "heading": "Collection",
+              "text_color": "#ffffff",
+              "overlay_color": "#000000",
+              "overlay_opacity": 20
+            }
+          }
+        },
+        "block_order": [
+          "cdedffd7-b007-4928-a751-e256b57e6fb1"
+        ],
+        "settings": {
+          "title": "",
+          "layout": "slideshow",
+          "collection": "",
+          "product_count": 9,
+          "cta_label": "",
+          "cta_button_style": "primary"
+        }
+      },
+      "1614289558b0c38561": {
+        "type": "dynamic-promo-grid",
+        "disabled": true,
+        "blocks": {
+          "1614289558b0c38561-0": {
+            "type": "promotion",
+            "settings": {
+              "background_position": "center-center",
+              "title": "Grid",
+              "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+              "color": "#1e1e1e",
+              "block_link": "",
+              "button_text": "",
+              "button_style": "primary",
+              "show_overlay": false,
+              "background": "",
+              "opacity": 50
+            }
+          }
+        },
+        "block_order": [
+          "1614289558b0c38561-0"
+        ],
+        "settings": {
+          "title": "Grid",
+          "section_height": "medium",
+          "section_columns": 1,
+          "text_alignment": "center-left"
+        }
+      },
+      "16142910339e2febe8": {
+        "type": "dynamic-blog-posts",
+        "settings": {
+          "title": "Podcast",
+          "blog": "muzzleloaders-podcast",
+          "show_date": true,
+          "show_author": false,
+          "show_excerpt": false
+        }
+      },
+      "static-list-collections": {
+        "type": "static-list-collections",
+        "settings": {
+          "thumbnail_columns_desktop": 4,
+          "thumbnail_columns_mobile": 3
+        }
+      },
+      "static-article": {
+        "type": "static-article",
+        "settings": {
+          "featured_image_width": "full-width",
+          "show_date": true,
+          "show_author": true,
+          "use_share_buttons": true
+        }
+      },
+      "page": {
+        "type": "page",
+        "settings": {}
+      },
+      "login": {
+        "type": "login",
+        "settings": {}
+      },
+      "page-contact": {
+        "type": "page-contact",
+        "settings": {}
+      },
+      "static-utility-bar": {
+        "type": "static-utility-bar",
+        "settings": {
+          "enable": true,
+          "use_full_width": true,
+          "background_color": "#ffffff",
+          "link_color": "#1d1d1d",
+          "link_hover_color": "#ff5500",
+          "border_color": "#ffffff",
+          "menu": "promotion-menu",
+          "show_menu_mobile": true,
+          "mobile_layout": "below",
+          "show_locale_selector": false,
+          "show_currency_selector": false,
+          "show_social_icons": true
+        }
+      },
+      "page-image": {
+        "type": "page-image",
+        "settings": {
+          "title": "Get in Touch",
+          "image": "shopify:\/\/shop_images\/contact-banner.jpg"
+        }
+      },
+      "contact-information": {
+        "type": "contact-information",
+        "blocks": {
+          "c2f92290-e96c-42ea-a57a-687e51cba657": {
+            "type": "supports",
+            "settings": {
+              "icon": "fa-comments",
+              "title": "Chat with Us",
+              "content": "<p>Live Chat with one of our Customer Service Representatives.<\/p>",
+              "btn-text": "Live Chat",
+              "btn-url": ""
+            }
+          },
+          "a5ead82e-631a-4052-a936-83cd2b329476": {
+            "type": "supports",
+            "settings": {
+              "icon": "fa-phone",
+              "title": "Call Us",
+              "content": "<p>Speak directly with one of our Customer Service Representatives.<\/p>",
+              "btn-text": "Call 1 (855) 236-5000",
+              "btn-url": "tel:8552365000"
+            }
+          },
+          "103740f1-437f-4001-a129-c477b00175d1": {
+            "type": "supports",
+            "settings": {
+              "icon": "fa-envelope",
+              "title": "Send Us an Email",
+              "content": "<p>Send a message to our team, and we’ll get back to you as soon as possible.<\/p>",
+              "btn-text": "Send Message",
+              "btn-url": "#contact_form"
+            }
+          }
+        },
+        "block_order": [
+          "c2f92290-e96c-42ea-a57a-687e51cba657",
+          "a5ead82e-631a-4052-a936-83cd2b329476",
+          "103740f1-437f-4001-a129-c477b00175d1"
+        ],
+        "settings": {
+          "period-1-title": "Monday-Friday",
+          "period-1-service": "<p>Phone, Email & Chat<br\/>7:00 a.m. - 4:00 p.m. PST<\/p>",
+          "period-2-title": "Saturday and Sunday",
+          "period-2-service": "<p>Email<br\/>7:00 a.m. - 4:00 p.m. PST<\/p>",
+          "period-3-title": "Holidays Closed",
+          "period-3-service": "<p>New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day<\/p>"
+        }
+      },
+      "double-image": {
+        "type": "double-image",
+        "blocks": {
+          "8d4d9818-57d4-419a-9f58-e13fd87208d9": {
+            "type": "image",
+            "settings": {
+              "img": "shopify:\/\/shop_images\/muzzleloaders-ceo.jpg",
+              "title": "Comments to Muzzle-Loaders President",
+              "content": "<p>Customer Satisfaction is our #1 goal! Please let me know what you think about our products, policies and service so we can listen, learn and improve.<br\/><br\/>Thanks,<br\/>Brad Watts<br\/>CEO of Muzzle-Loaders.com<\/p>",
+              "mail": "sales@muzzle-loaders.com"
+            }
+          },
+          "22d99c9d-5656-4f06-83f0-bf17f8ed31c7": {
+            "type": "image",
+            "settings": {
+              "img": "shopify:\/\/shop_images\/muzzleloaders-meeting.jpg",
+              "title": "Careers at Muzzle-Loaders.com",
+              "content": "<p>We’re looking for continual learners who share our values to join our growing team. Across our company, you’ll find growth opportunities are abundant and hard work is rewarded.<br\/><br\/>Thanks,<br\/>Jeff Clemens<br\/>President of Muzzle-Loaders.com<\/p>",
+              "mail": "careers@muzzle-loaders.com"
+            }
+          }
+        },
+        "block_order": [
+          "8d4d9818-57d4-419a-9f58-e13fd87208d9",
+          "22d99c9d-5656-4f06-83f0-bf17f8ed31c7"
+        ],
+        "settings": {}
+      },
+      "sidebar": {
+        "type": "sidebar",
+        "settings": {
+          "b_menu": true,
+          "menu": "service-support",
+          "rifle": true,
+          "google-review": true
+        }
+      },
+      "article-resource": {
+        "type": "article-resource",
+        "blocks": {
+          "5e87a9cc-5772-4163-815b-d80c7e6a7dea": {
+            "type": "Article",
+            "settings": {
+              "blog": "muzzleloaders-podcast",
+              "image": "shopify:\/\/shop_images\/muzzleloader-podcast-2.jpg"
+            }
+          },
+          "575a3536-ff73-492c-889a-21d7e321fcfc": {
+            "type": "Article",
+            "settings": {
+              "blog": "news",
+              "image": "shopify:\/\/shop_images\/muzzleloader-news-2.jpg"
+            }
+          },
+          "9d945841-7f36-43b2-9200-29634fa9dbc7": {
+            "type": "Article",
+            "settings": {
+              "blog": "muzzleloader-regulations",
+              "image": "shopify:\/\/shop_images\/muzzleloader-regulations-2.jpg"
+            }
+          },
+          "fba41223-84e6-42e4-9a60-cef9c083b358": {
+            "type": "Article",
+            "settings": {
+              "blog": "reviews",
+              "image": "shopify:\/\/shop_images\/muzzleloader-reviews-2.jpg"
+            }
+          },
+          "114d531c-acd2-4b8b-b216-5bc9b29fe1f4": {
+            "type": "Article",
+            "settings": {
+              "blog": "muzzleloader-testing-info",
+              "image": "shopify:\/\/shop_images\/muzzleloader-testing-2.jpg"
+            }
+          },
+          "8ece8f06-f671-429d-b183-04f771aa41dd": {
+            "type": "Article",
+            "settings": {
+              "blog": "muzzleloader-instructional-videos",
+              "image": "shopify:\/\/shop_images\/muzzleloader-videos-2.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "5e87a9cc-5772-4163-815b-d80c7e6a7dea",
+          "575a3536-ff73-492c-889a-21d7e321fcfc",
+          "9d945841-7f36-43b2-9200-29634fa9dbc7",
+          "fba41223-84e6-42e4-9a60-cef9c083b358",
+          "114d531c-acd2-4b8b-b216-5bc9b29fe1f4",
+          "8ece8f06-f671-429d-b183-04f771aa41dd"
+        ],
+        "settings": {
+          "posts_per_row": 3
+        }
+      },
+      "static-cart": {
+        "type": "static-cart",
+        "settings": {
+          "enable_order_notes": false,
+          "enable_shipping_calc": true,
+          "shipping_calc_default_country": "United States"
+        }
+      }
+    },
+    "content_for_index": [
+      "16141154082496c2cc",
+      "1614115478e7f12953",
+      "1493143038057",
+      "1493163784784",
+      "1520634789686",
+      "1493145778308",
+      "1614116286c7fddaa4",
+      "161411620981c75d5e",
+      "1614191055f69adc20",
+      "1614289558b0c38561",
+      "1614189245102837c3",
+      "1614115890cbfc29cf",
+      "16142910339e2febe8",
+      "1614186808567e83f9"
+    ],
+    "blocks": {
+      "1633641481f3d4046b": {
+        "type": "shopify:\/\/apps\/product-filter-search\/blocks\/boost-pfs\/7fc998ae-a150-4367-bab8-505d8a4503f7",
+        "disabled": false,
+        "settings": {}
+      },
+      "1633641481f091606d": {
+        "type": "shopify:\/\/apps\/product-filter-search\/blocks\/boost-pfs-style\/7fc998ae-a150-4367-bab8-505d8a4503f7",
+        "disabled": false,
+        "settings": {}
+      }
+    }
+  },
+  "presets": {
+    "Supply": {
+      "color_background": "#ffffff",
+      "color_headings": "#1d1d1d",
+      "color_text": "#1d1d1d",
+      "color_text_light": "#949494",
+      "color_links": "#046e82",
+      "color_button_background": "#f04f36",
+      "color_button_text": "#ffffff",
+      "color_button_secondary_background": "#ffffff",
+      "color_button_secondary_text": "#f04f36",
+      "color_button_secondary_border": "#dddddd",
+      "color_header_background": "#ffffff",
+      "color_header_text": "#1d1d1d",
+      "color_input_text": "#4d4d4d",
+      "color_input_background": "#ffffff",
+      "color_input_border": "#dddddd",
+      "color_product_sale_accent": "#f04f36",
+      "color_product_review_star": "#ffab41",
+      "color_footer_background": "#f5f3ed",
+      "color_footer_text": "#1d1d1d",
+      "color_overlay": "#000000",
+      "overlay_opacity": 50,
+      "type_size_base": 16,
+      "type_heading": "montserrat_n8",
+      "type_heading_size": "1",
+      "type_heading_capitalize": false,
+      "type_heading_spacing": 0,
+      "type_body": "nunito_sans_n4",
+      "type_menu": "nunito_sans_n7",
+      "type_menu_capitalize": false,
+      "type_menu_spacing": 0,
+      "type_button": "nunito_sans_n7",
+      "type_button_capitalize": false,
+      "type_button_spacing": 0,
+      "type_section": "montserrat_n8",
+      "type_section_capitalize": false,
+      "type_section_spacing": 0,
+      "layout_max_width": 1400,
+      "product_show_vendor": false,
+      "product_show_sku": false,
+      "product_option_style": "radio",
+      "product_sales_badge": true,
+      "product_sales_badge_style": "percent",
+      "product_social_sharing": false,
+      "product_ratings_reviews": true,
+      "product_ratings_star_display": "all",
+      "product_grid_show_second_image": false,
+      "product_grid_emphasize_price": true,
+      "product_grid_image_style": "natural",
+      "product_grid_show_quickshop": "always",
+      "product_grid_show_atc": "always",
+      "quickshop_select_first_available_variant": false,
+      "quickshop_show_dcb": true,
+      "quickshop_product_cart_redirect": false,
+      "swatches_enable": false,
+      "swatches_swatch_trigger": "Color",
+      "swatches_shape": "square",
+      "swatches_product_card_size": 32,
+      "swatches_product_page_size": 64,
+      "swatches_option_style": "variant_image",
+      "swatches_custom_colors": "",
+      "social_tumblr": "",
+      "social_vimeo": "",
+      "social_youtube": "",
+      "social_linkedin": "",
+      "enable_checkout_lock_icon": false,
+      "continue_shopping_url": "shopify:\/\/collections\/all",
+      "continue_url_cart": true,
+      "continue_url_404": true,
+      "product_enable_recently_viewed_products": true,
+      "product_slideshow_style": "natural",
+      "gallery_thumbnail_position": "below",
+      "enable_image_zoom": false,
+      "image_zoom_level": "min",
+      "product_grid_quick_shop": true,
+      "product_grid_quick_buy": true,
+      "social_google": "",
+      "show_dcb": false,
+      "product_grid_quick_look": true,
+      "font_body": "Google_Lato_400,400i,700,700i",
+      "font_heading": "\"League Spartan\", sans-serif",
+      "quickshop_ratings": true,
+      "quickshop_redirect_to_cart": false,
+      "quickshop_sales_badge": true,
+      "quickshop_sales_badge_style": "percentile_save",
+      "quickshop_ratings_reviews": true,
+      "quickshop_enable_social_sharing": true,
+      "product_cart_redirect": false,
+      "show_breadcrumbs": true,
+      "quickshop_show_vendor": true,
+      "sections": {
+        "static-header": {
+          "type": "static-header",
+          "blocks": {
+            "1517255946962": {
+              "type": "meganav_images",
+              "settings": {
+                "position_1": "last",
+                "size_1": "medium",
+                "position_2": "last",
+                "size_2": "medium"
+              }
+            },
+            "ff9e6854-1318-4c95-a027-c4108d1e961d": {
+              "type": "meganav_images",
+              "settings": {
+                "position_1": "last",
+                "size_1": "medium",
+                "position_2": "first",
+                "size_2": "small"
+              }
+            }
+          },
+          "block_order": [
+            "1517255946962",
+            "ff9e6854-1318-4c95-a027-c4108d1e961d"
+          ],
+          "settings": {
+            "sticky_header": true,
+            "full_width_header": true,
+            "logo_height": 40,
+            "logo_width": 150,
+            "filter_search_by": "product_type",
+            "enable_live_search": true,
+            "show_mobile_search_bar": false,
+            "enable_live_search_images": true,
+            "enable_live_search_articles_pages": true,
+            "quick_links": ""
+          }
+        },
+        "1520634789686": {
+          "type": "dynamic-featured-product",
+          "settings": {
+            "sold_out_options": "selectable",
+            "select_first_available_variant": false,
+            "show_dcb": true,
+            "product_cart_redirect": false,
+            "gallery_aspect_ratio": "natural",
+            "gallery_image_crop": false,
+            "gallery_thumbnail_position": "left",
+            "gallery_video_autoplay": false,
+            "gallery_video_looping": true,
+            "gallery_hover_zoom": "replace"
+          }
+        },
+        "static-blog": {
+          "type": "static-blog",
+          "settings": {
+            "show_rss_link": true,
+            "show_date": true,
+            "show_author": false,
+            "show_excerpt": true,
+            "posts_per_page_range": 9
+          }
+        },
+        "1493143038057": {
+          "type": "dynamic-promo-mosaic",
+          "blocks": {
+            "1493143038057-0": {
+              "type": "promotion",
+              "settings": {
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "rgba(0,0,0,0)",
+                "opacity": 50
+              }
+            },
+            "1493143038057-1": {
+              "type": "promotion",
+              "settings": {
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": true,
+                "background": "#000000",
+                "opacity": 5
+              }
+            },
+            "1493143038057-2": {
+              "type": "promotion",
+              "settings": {
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": true,
+                "background": "#000000",
+                "opacity": 3
+              }
+            },
+            "1493143583401": {
+              "type": "promotion",
+              "settings": {
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "",
+                "opacity": 50
+              }
+            }
+          },
+          "block_order": [
+            "1493143038057-0",
+            "1493143038057-1",
+            "1493143038057-2",
+            "1493143583401"
+          ],
+          "settings": {
+            "title": "",
+            "section_height": "small",
+            "text_alignment": "top-left",
+            "maintain_aspect_ratio": true,
+            "compress_blocks": false
+          }
+        },
+        "static-footer": {
+          "type": "static-footer",
+          "blocks": {
+            "1493171899575": {
+              "type": "social_accounts",
+              "settings": {}
+            },
+            "static-footer-0": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1498182586280": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1498182572847": {
+              "type": "menu",
+              "settings": {}
+            },
+            "static-footer-1": {
+              "type": "newsletter",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1493171899575",
+            "static-footer-0",
+            "1498182586280",
+            "1498182572847",
+            "static-footer-1"
+          ],
+          "settings": {
+            "payment_icons": true,
+            "show_locale_selector": true,
+            "show_currency_selector": true
+          }
+        },
+        "1493145778308": {
+          "type": "dynamic-promo-grid",
+          "blocks": {
+            "9277da70-592e-4d14-9d97-c94599d2e88a": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-center",
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "",
+                "opacity": 50
+              }
+            },
+            "ea3e2541-5917-4d6e-a810-44a477e32117": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-center",
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "",
+                "opacity": 50
+              }
+            },
+            "1493145778308-0": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-left",
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "",
+                "opacity": 50
+              }
+            },
+            "088c4496-9bd9-4845-bddc-936fea6faff1": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-left",
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "",
+                "opacity": 50
+              }
+            }
+          },
+          "block_order": [
+            "9277da70-592e-4d14-9d97-c94599d2e88a",
+            "ea3e2541-5917-4d6e-a810-44a477e32117",
+            "1493145778308-0",
+            "088c4496-9bd9-4845-bddc-936fea6faff1"
+          ],
+          "settings": {
+            "section_height": "medium",
+            "section_columns": 4,
+            "text_alignment": "top-left"
+          }
+        },
+        "static-collection": {
+          "type": "static-collection",
+          "blocks": {
+            "1498186879532": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1498186836236": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1572651808624": {
+              "type": "menu",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1498186879532",
+            "1498186836236",
+            "1572651808624"
+          ],
+          "settings": {
+            "show_collection_image": true,
+            "products_per_page_range": 24,
+            "products_per_row": "4",
+            "sort_by": true,
+            "show_by": true,
+            "grid_list": true,
+            "default_view": "grid-view",
+            "show_sidebar": true,
+            "filter_style": "groups",
+            "filter_limit": "5",
+            "filter_position": "above_menus",
+            "grid_categories": "",
+            "custom_ordered_categories": "",
+            "custom_ordered_tags": "",
+            "menu_depth_range": 1
+          }
+        },
+        "1493163784784": {
+          "type": "dynamic-featured-collection",
+          "blocks": {
+            "d6f2966e-cbe1-4cff-b5a2-95ffba9a5216": {
+              "type": "title_card",
+              "settings": {
+                "horizontal_size": "3",
+                "vertical_size": "2",
+                "text_alignment": "center-center",
+                "text_color": "#ffffff",
+                "overlay_color": "#000000",
+                "overlay_opacity": 10
+              }
+            }
+          },
+          "block_order": [
+            "d6f2966e-cbe1-4cff-b5a2-95ffba9a5216"
+          ],
+          "settings": {
+            "layout": "grid",
+            "product_count": 4,
+            "cta_label": "",
+            "cta_button_style": "primary"
+          }
+        },
+        "static-product": {
+          "type": "static-product",
+          "settings": {
+            "layout": "layout--two-col",
+            "sold_out_options": "selectable",
+            "select_first_available_variant": true,
+            "show_dcb": true,
+            "product_cart_redirect": false,
+            "gallery_aspect_ratio": "natural",
+            "gallery_image_crop": false,
+            "gallery_thumbnail_position": "below",
+            "gallery_video_autoplay": true,
+            "gallery_video_looping": true,
+            "gallery_hover_zoom": "disabled",
+            "gallery_click_to_zoom": "always"
+          }
+        },
+        "static-announcement": {
+          "type": "static-announcement",
+          "settings": {
+            "show_announcement": true,
+            "homepage_announcement": false,
+            "announcement_color": "#000000",
+            "announcement_background": "#f5f3ed"
+          }
+        },
+        "static-product-recommendations": {
+          "type": "static-product-recommendations",
+          "settings": {
+            "show_product_recommendations": true
+          }
+        },
+        "static-product-reviews": {
+          "type": "static-product-reviews",
+          "settings": {}
+        },
+        "static-recently-viewed": {
+          "type": "static-recently-viewed",
+          "settings": {
+            "enable_recently_viewed_products": true
+          }
+        },
+        "16141154082496c2cc": {
+          "type": "dynamic-slideshow",
+          "blocks": {
+            "16141154082496c2cc-1": {
+              "type": "slide",
+              "settings": {
+                "color": "#ffffff",
+                "text_alignment": "center",
+                "button_one_style": "primary",
+                "button_two_style": "secondary",
+                "show_overlay": true,
+                "overlay_color": "#000000",
+                "overlay_opacity": 13
+              }
+            },
+            "1eacb703-5ac2-4595-ab7a-7bddff6459b6": {
+              "type": "slide",
+              "settings": {
+                "color": "#1d1d1d",
+                "text_alignment": "left",
+                "button_one_style": "primary",
+                "button_two_style": "primary",
+                "show_overlay": true,
+                "overlay_color": "#000000",
+                "overlay_opacity": 4
+              }
+            },
+            "16141154082496c2cc-0": {
+              "type": "slide",
+              "settings": {
+                "color": "#ffffff",
+                "text_alignment": "center",
+                "button_one_style": "primary",
+                "button_two_style": "secondary",
+                "show_overlay": true,
+                "overlay_color": "#000000",
+                "overlay_opacity": 20
+              }
+            },
+            "b0008618-7d38-4567-919d-9ef811722a33": {
+              "type": "slide",
+              "settings": {
+                "color": "#1d1d1d",
+                "text_alignment": "left",
+                "button_one_style": "primary",
+                "button_two_style": "secondary",
+                "show_overlay": true,
+                "overlay_color": "#000000",
+                "overlay_opacity": 5
+              }
+            }
+          },
+          "block_order": [
+            "16141154082496c2cc-1",
+            "1eacb703-5ac2-4595-ab7a-7bddff6459b6",
+            "16141154082496c2cc-0",
+            "b0008618-7d38-4567-919d-9ef811722a33"
+          ],
+          "settings": {
+            "enable_autoplay": true,
+            "autoplay_duration": 9,
+            "slideshow_width": "full",
+            "slideshow_height": "medium",
+            "slideshow_height_mobile": "x-large",
+            "slideshow_text_below_image": false
+          }
+        },
+        "1614115478e7f12953": {
+          "type": "dynamic-highlights-banner",
+          "blocks": {
+            "1614115478e7f12953-0": {
+              "type": "highlight",
+              "settings": {}
+            },
+            "1614115478e7f12953-2": {
+              "type": "highlight",
+              "settings": {}
+            },
+            "1614115478e7f12953-3": {
+              "type": "highlight",
+              "settings": {}
+            },
+            "1614115478e7f12953-1": {
+              "type": "highlight",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1614115478e7f12953-0",
+            "1614115478e7f12953-2",
+            "1614115478e7f12953-3",
+            "1614115478e7f12953-1"
+          ],
+          "settings": {
+            "section_spacing": false,
+            "section_width": "content-width",
+            "icon_layout": "center",
+            "color": "#1d1d1d",
+            "icon_color": "#046e82",
+            "background_color": "#ffffff",
+            "mobile_layout": "grid"
+          }
+        },
+        "1614115890cbfc29cf": {
+          "type": "dynamic-testimonials",
+          "blocks": {
+            "1614115890cbfc29cf-2": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "1614115890cbfc29cf-1": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "1614115890cbfc29cf-0": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "3a3b329f-77d0-4320-9c5f-7eee8b6d5c1c": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "4c1dd98f-4606-4d19-ae97-d1ef82b03040": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "04baedac-c5ee-4432-9738-78f248eb6b18": {
+              "type": "testimonial",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1614115890cbfc29cf-2",
+            "1614115890cbfc29cf-1",
+            "1614115890cbfc29cf-0",
+            "3a3b329f-77d0-4320-9c5f-7eee8b6d5c1c",
+            "4c1dd98f-4606-4d19-ae97-d1ef82b03040",
+            "04baedac-c5ee-4432-9738-78f248eb6b18"
+          ],
+          "settings": {
+            "image_crop": "circle",
+            "text_size": "large"
+          }
+        },
+        "161411620981c75d5e": {
+          "type": "dynamic-shoppable-image",
+          "blocks": {
+            "161411620981c75d5e-0": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 24,
+                "y_axis": 79
+              }
+            },
+            "161411620981c75d5e-1": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 64,
+                "y_axis": 67
+              }
+            },
+            "161411620981c75d5e-2": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 61,
+                "y_axis": 5
+              }
+            },
+            "faf48f6e-5707-4f19-8dbc-ddd6b60df25f": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 15,
+                "y_axis": 19
+              }
+            },
+            "ad761ee7-ba2a-4f6b-bf66-1bc6e95b37eb": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 87,
+                "y_axis": 48
+              }
+            }
+          },
+          "block_order": [
+            "161411620981c75d5e-0",
+            "161411620981c75d5e-1",
+            "161411620981c75d5e-2",
+            "faf48f6e-5707-4f19-8dbc-ddd6b60df25f",
+            "ad761ee7-ba2a-4f6b-bf66-1bc6e95b37eb"
+          ],
+          "settings": {
+            "image_width": "two-thirds",
+            "textbox_button_style": "primary",
+            "textbox_text_alignment": "center",
+            "textbox_text_position": "left"
+          }
+        },
+        "1614116286c7fddaa4": {
+          "type": "dynamic-collection-list",
+          "blocks": {
+            "1614116286c7fddaa4-1": {
+              "type": "collection",
+              "settings": {}
+            },
+            "1614116286c7fddaa4-3": {
+              "type": "collection",
+              "settings": {}
+            },
+            "1614116286c7fddaa4-4": {
+              "type": "collection",
+              "settings": {}
+            },
+            "357237e1-4187-424c-9610-760379b04576": {
+              "type": "collection",
+              "settings": {}
+            },
+            "54868108-2754-49a9-ae4b-8fa4678c2b11": {
+              "type": "collection",
+              "settings": {}
+            },
+            "0928677c-d079-45c9-a415-15c7c8a62d57": {
+              "type": "collection",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1614116286c7fddaa4-1",
+            "1614116286c7fddaa4-3",
+            "1614116286c7fddaa4-4",
+            "357237e1-4187-424c-9610-760379b04576",
+            "54868108-2754-49a9-ae4b-8fa4678c2b11",
+            "0928677c-d079-45c9-a415-15c7c8a62d57"
+          ],
+          "settings": {
+            "thumbnail_columns_desktop": 6,
+            "thumbnail_columns_mobile": 3,
+            "cta_button_style": "secondary"
+          }
+        },
+        "1614186808567e83f9": {
+          "type": "dynamic-search",
+          "settings": {
+            "filter_search_by": "disabled",
+            "enable_live_search": true,
+            "enable_live_search_images": false,
+            "enable_live_search_articles_pages": false,
+            "position": "center-center",
+            "show-overlay": false,
+            "color": "#ffffff",
+            "background": "#000000",
+            "opacity": 50
+          }
+        },
+        "1614189245102837c3": {
+          "type": "dynamic-promo-grid",
+          "blocks": {
+            "1614189245102837c3-0": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-center",
+                "color": "#ffffff",
+                "button_style": "secondary",
+                "show_overlay": false,
+                "background": "rgba(0,0,0,0)",
+                "opacity": 50
+              }
+            },
+            "1614189245102837c3-1": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-center",
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "rgba(0,0,0,0)",
+                "opacity": 50
+              }
+            }
+          },
+          "block_order": [
+            "1614189245102837c3-0",
+            "1614189245102837c3-1"
+          ],
+          "settings": {
+            "title": "",
+            "section_height": "small",
+            "section_columns": 2,
+            "text_alignment": "center-left"
+          }
+        },
+        "1614191055f69adc20": {
+          "type": "dynamic-featured-collection",
+          "blocks": {
+            "cdedffd7-b007-4928-a751-e256b57e6fb1": {
+              "type": "view_all_card",
+              "settings": {
+                "text_alignment": "center-center",
+                "text_color": "#ffffff",
+                "overlay_color": "#000000",
+                "overlay_opacity": 20
+              }
+            }
+          },
+          "block_order": [
+            "cdedffd7-b007-4928-a751-e256b57e6fb1"
+          ],
+          "settings": {
+            "title": "",
+            "layout": "slideshow",
+            "product_count": 9,
+            "cta_label": "",
+            "cta_button_style": "primary"
+          }
+        },
+        "1614289558b0c38561": {
+          "type": "dynamic-promo-grid",
+          "blocks": {
+            "1614289558b0c38561-0": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-center",
+                "color": "#1e1e1e",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "",
+                "opacity": 50
+              }
+            }
+          },
+          "block_order": [
+            "1614289558b0c38561-0"
+          ],
+          "settings": {
+            "section_height": "medium",
+            "section_columns": 1,
+            "text_alignment": "center-left"
+          }
+        },
+        "16142910339e2febe8": {
+          "type": "dynamic-blog-posts",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_excerpt": true
+          }
+        },
+        "static-list-collections": {
+          "type": "static-list-collections",
+          "settings": {
+            "thumbnail_columns_desktop": 4,
+            "thumbnail_columns_mobile": 3
+          }
+        },
+        "static-article": {
+          "type": "static-article",
+          "settings": {
+            "featured_image_width": "full-width",
+            "show_date": true,
+            "show_author": true,
+            "use_share_buttons": true
+          }
+        },
+        "page": {
+          "type": "page",
+          "settings": {}
+        },
+        "login": {
+          "type": "login",
+          "settings": {}
+        },
+        "page-contact": {
+          "type": "page-contact",
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "16141154082496c2cc",
+        "1614115478e7f12953",
+        "1493143038057",
+        "1493163784784",
+        "1520634789686",
+        "1493145778308",
+        "1614116286c7fddaa4",
+        "161411620981c75d5e",
+        "1614191055f69adc20",
+        "1614289558b0c38561",
+        "1614189245102837c3",
+        "1614115890cbfc29cf",
+        "16142910339e2febe8",
+        "1614186808567e83f9"
+      ]
+    },
+    "Graphic": {
+      "color_background": "#ffffff",
+      "color_headings": "#000000",
+      "color_text": "#000000",
+      "color_text_light": "#464646",
+      "color_links": "#494d41",
+      "color_button_background": "#000000",
+      "color_button_text": "#ffffff",
+      "color_button_secondary_background": "#ffffff",
+      "color_button_secondary_text": "#000000",
+      "color_button_secondary_border": "#000000",
+      "color_header_background": "#ffffff",
+      "color_header_text": "#000000",
+      "color_input_text": "#4d4d4d",
+      "color_input_background": "#ffffff",
+      "color_input_border": "#000000",
+      "color_product_sale_accent": "#494d41",
+      "color_product_review_star": "#000000",
+      "color_footer_background": "#ffffff",
+      "color_footer_text": "#000000",
+      "color_overlay": "#000000",
+      "overlay_opacity": 50,
+      "type_size_base": 16,
+      "type_heading": "goudy_old_style_n4",
+      "type_heading_size": "1.2",
+      "type_heading_capitalize": false,
+      "type_heading_spacing": 0,
+      "type_body": "source_sans_pro_n4",
+      "type_menu": "source_sans_pro_n6",
+      "type_menu_capitalize": false,
+      "type_menu_spacing": 0,
+      "type_button": "source_sans_pro_n4",
+      "type_button_capitalize": false,
+      "type_button_spacing": 0,
+      "type_section": "goudy_old_style_n4",
+      "type_section_capitalize": false,
+      "type_section_spacing": 0,
+      "layout_max_width": 1400,
+      "product_show_vendor": true,
+      "product_show_sku": false,
+      "product_option_style": "radio",
+      "product_sales_badge": true,
+      "product_sales_badge_style": "text",
+      "product_social_sharing": false,
+      "product_ratings_reviews": false,
+      "product_ratings_star_display": "prod-page",
+      "product_grid_show_second_image": false,
+      "product_grid_emphasize_price": false,
+      "product_grid_image_style": "natural",
+      "product_grid_show_quickshop": "always",
+      "product_grid_show_atc": "always",
+      "quickshop_select_first_available_variant": false,
+      "quickshop_show_dcb": true,
+      "quickshop_product_cart_redirect": false,
+      "swatches_enable": true,
+      "swatches_swatch_trigger": "Color",
+      "swatches_shape": "square",
+      "swatches_product_card_size": 32,
+      "swatches_product_page_size": 64,
+      "swatches_option_style": "variant_image",
+      "swatches_custom_colors": "",
+      "enable_checkout_lock_icon": false,
+      "continue_shopping_url": "shopify:\/\/collections\/all",
+      "continue_url_cart": true,
+      "continue_url_404": true,
+      "product_enable_recently_viewed_products": true,
+      "product_slideshow_style": "natural",
+      "gallery_thumbnail_position": "below",
+      "enable_image_zoom": false,
+      "image_zoom_level": "min",
+      "product_grid_quick_shop": true,
+      "product_grid_quick_buy": true,
+      "social_google": "",
+      "show_dcb": false,
+      "product_grid_quick_look": true,
+      "font_body": "Google_Lato_400,400i,700,700i",
+      "font_heading": "\"League Spartan\", sans-serif",
+      "quickshop_ratings": true,
+      "quickshop_redirect_to_cart": false,
+      "quickshop_sales_badge": true,
+      "quickshop_sales_badge_style": "percentile_save",
+      "quickshop_ratings_reviews": true,
+      "quickshop_enable_social_sharing": true,
+      "product_cart_redirect": false,
+      "show_breadcrumbs": true,
+      "quickshop_show_vendor": true,
+      "sections": {
+        "static-header": {
+          "type": "static-header",
+          "blocks": {
+            "1517255946962": {
+              "type": "meganav_images",
+              "settings": {
+                "position_1": "first",
+                "size_1": "small",
+                "position_2": "first",
+                "size_2": "small"
+              }
+            },
+            "1572476394007": {
+              "type": "multi_column_menu",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1517255946962",
+            "1572476394007"
+          ],
+          "settings": {
+            "sticky_header": false,
+            "full_width_header": false,
+            "logo_height": 43,
+            "logo_width": 150,
+            "filter_search_by": "disabled",
+            "enable_live_search": true,
+            "show_mobile_search_bar": true,
+            "enable_live_search_images": true,
+            "enable_live_search_articles_pages": true,
+            "small_promo_icon": "none"
+          }
+        },
+        "static-blog": {
+          "type": "static-blog",
+          "settings": {
+            "show_rss_link": false,
+            "show_date": true,
+            "show_author": true,
+            "show_excerpt": true,
+            "posts_per_page_range": 9
+          }
+        },
+        "1493143038057": {
+          "type": "dynamic-promo-mosaic",
+          "blocks": {
+            "1493143038057-0": {
+              "type": "promotion",
+              "settings": {
+                "color": "#000000",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "#000000",
+                "opacity": 3
+              }
+            },
+            "1493143038057-1": {
+              "type": "promotion",
+              "settings": {
+                "color": "#ffffff",
+                "button_style": "secondary",
+                "show_overlay": false,
+                "background": "",
+                "opacity": 50
+              }
+            },
+            "f9160850-ab1c-42d6-87ce-6a57b0fcab72": {
+              "type": "promotion",
+              "settings": {
+                "color": "#ffffff",
+                "button_style": "secondary",
+                "show_overlay": false,
+                "background": "",
+                "opacity": 50
+              }
+            }
+          },
+          "block_order": [
+            "1493143038057-0",
+            "1493143038057-1",
+            "f9160850-ab1c-42d6-87ce-6a57b0fcab72"
+          ],
+          "settings": {
+            "title": "",
+            "section_height": "small",
+            "text_alignment": "top-left",
+            "maintain_aspect_ratio": false,
+            "compress_blocks": false
+          }
+        },
+        "static-footer": {
+          "type": "static-footer",
+          "blocks": {
+            "static-footer-0": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1498182586280": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1498182572847": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1493171899575": {
+              "type": "social_accounts",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "static-footer-0",
+            "1498182586280",
+            "1498182572847",
+            "1493171899575"
+          ],
+          "settings": {
+            "payment_icons": false,
+            "show_locale_selector": true,
+            "show_currency_selector": true,
+            "additional_menu": ""
+          }
+        },
+        "1493145778308": {
+          "type": "dynamic-promo-grid",
+          "blocks": {
+            "46b5e4d8-c021-4397-9839-50e522dd71ad": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-center",
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": true,
+                "background": "#000000",
+                "opacity": 5
+              }
+            },
+            "1493145778308-0": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-center",
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": true,
+                "background": "#000000",
+                "opacity": 10
+              }
+            },
+            "d2dcbdf9-683b-4878-8c03-a3bcf37844af": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-center",
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": true,
+                "background": "#000000",
+                "opacity": 20
+              }
+            }
+          },
+          "block_order": [
+            "46b5e4d8-c021-4397-9839-50e522dd71ad",
+            "1493145778308-0",
+            "d2dcbdf9-683b-4878-8c03-a3bcf37844af"
+          ],
+          "settings": {
+            "section_height": "natural",
+            "section_columns": 3,
+            "text_alignment": "center-center"
+          }
+        },
+        "static-collection": {
+          "type": "static-collection",
+          "blocks": {
+            "1498186879532": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1498186836236": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1572651808624": {
+              "type": "menu",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1498186879532",
+            "1498186836236",
+            "1572651808624"
+          ],
+          "settings": {
+            "show_collection_image": true,
+            "products_per_page_range": 24,
+            "products_per_row": "3",
+            "sort_by": true,
+            "show_by": true,
+            "grid_list": true,
+            "default_view": "grid-view",
+            "show_sidebar": true,
+            "filter_style": "groups",
+            "filter_limit": "5",
+            "filter_position": "above_menus",
+            "grid_categories": "",
+            "custom_ordered_categories": "",
+            "custom_ordered_tags": "",
+            "menu_depth_range": 1
+          }
+        },
+        "1493163784784": {
+          "type": "dynamic-featured-collection",
+          "blocks": {
+            "1fba7cf0-c0de-49c1-92fc-3ed1338f8822": {
+              "type": "title_card",
+              "settings": {
+                "horizontal_size": "2",
+                "vertical_size": "2",
+                "text_alignment": "top-left",
+                "text_color": "#ffffff",
+                "overlay_color": "rgba(0,0,0,0)",
+                "overlay_opacity": 50
+              }
+            }
+          },
+          "block_order": [
+            "1fba7cf0-c0de-49c1-92fc-3ed1338f8822"
+          ],
+          "settings": {
+            "layout": "grid",
+            "product_count": 6,
+            "cta_button_style": "primary"
+          }
+        },
+        "1493166188493": {
+          "type": "dynamic-menu-list",
+          "blocks": {
+            "1493166188493-0": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1493166188493-1": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1493166188493-2": {
+              "type": "menu",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1493166188493-0",
+            "1493166188493-1",
+            "1493166188493-2"
+          ],
+          "settings": {}
+        },
+        "static-product": {
+          "type": "static-product",
+          "settings": {
+            "layout": "layout--two-col",
+            "sold_out_options": "selectable",
+            "select_first_available_variant": true,
+            "show_dcb": true,
+            "product_cart_redirect": false,
+            "gallery_aspect_ratio": "natural",
+            "gallery_image_crop": false,
+            "gallery_thumbnail_position": "below",
+            "gallery_video_autoplay": true,
+            "gallery_video_looping": true,
+            "gallery_hover_zoom": "disabled",
+            "gallery_click_to_zoom": "always"
+          }
+        },
+        "static-announcement": {
+          "type": "static-announcement",
+          "settings": {
+            "show_announcement": true,
+            "homepage_announcement": true,
+            "announcement_color": "#ffffff",
+            "announcement_background": "#494d41"
+          }
+        },
+        "static-product-recommendations": {
+          "type": "static-product-recommendations",
+          "settings": {
+            "show_product_recommendations": true
+          }
+        },
+        "static-product-reviews": {
+          "type": "static-product-reviews",
+          "settings": {}
+        },
+        "static-recently-viewed": {
+          "type": "static-recently-viewed",
+          "settings": {
+            "enable_recently_viewed_products": true
+          }
+        },
+        "16141166870f790be5": {
+          "type": "dynamic-slideshow",
+          "blocks": {
+            "16141166870f790be5-0": {
+              "type": "slide",
+              "settings": {
+                "color": "#000000",
+                "text_alignment": "center",
+                "button_one_style": "primary",
+                "button_two_label": "Shop Decor",
+                "show_overlay": true,
+                "overlay_color": "#000000",
+                "overlay_opacity": 3
+              }
+            }
+          },
+          "block_order": [
+            "16141166870f790be5-0"
+          ],
+          "settings": {
+            "enable_autoplay": false,
+            "autoplay_duration": 8,
+            "slideshow_width": "content",
+            "slideshow_height": "large",
+            "slideshow_height_mobile": "x-large",
+            "slideshow_text_below_image": false
+          }
+        },
+        "16141169912db36a39": {
+          "type": "dynamic-rich-text",
+          "settings": {
+            "width": "wide",
+            "heading_size": "small",
+            "text_alignment": "center"
+          }
+        },
+        "16141174150e86eb4e": {
+          "type": "dynamic-testimonials",
+          "blocks": {
+            "16141174150e86eb4e-0": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "eb18f7d8-2668-4114-8393-e16d36924bb8": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "16141174150e86eb4e-2": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "16141174150e86eb4e-1": {
+              "type": "testimonial",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "16141174150e86eb4e-0",
+            "eb18f7d8-2668-4114-8393-e16d36924bb8",
+            "16141174150e86eb4e-2",
+            "16141174150e86eb4e-1"
+          ],
+          "settings": {
+            "title": "",
+            "image_crop": "original",
+            "text_size": "small"
+          }
+        },
+        "1614117520c9052570": {
+          "type": "dynamic-rich-text",
+          "settings": {
+            "width": "wide",
+            "heading_size": "medium",
+            "text_alignment": "left"
+          }
+        },
+        "16141176022c8b146f": {
+          "type": "dynamic-shoppable-image",
+          "blocks": {
+            "16141176022c8b146f-0": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 14,
+                "y_axis": 65
+              }
+            },
+            "16141176022c8b146f-1": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 50,
+                "y_axis": 29
+              }
+            },
+            "16141176022c8b146f-2": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 81,
+                "y_axis": 36
+              }
+            },
+            "9fd90daf-600c-470c-bd0a-755522a8d532": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 7,
+                "y_axis": 45
+              }
+            },
+            "a63d9e31-a78c-4152-9877-92536715eef4": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 70,
+                "y_axis": 18
+              }
+            }
+          },
+          "block_order": [
+            "16141176022c8b146f-0",
+            "16141176022c8b146f-1",
+            "16141176022c8b146f-2",
+            "9fd90daf-600c-470c-bd0a-755522a8d532",
+            "a63d9e31-a78c-4152-9877-92536715eef4"
+          ],
+          "settings": {
+            "image_width": "full",
+            "textbox_button_style": "primary",
+            "textbox_text_alignment": "left",
+            "textbox_text_position": "right"
+          }
+        },
+        "161419869208faddc0": {
+          "type": "dynamic-featured-collection",
+          "blocks": {
+            "8d51c6dc-5e73-4c2a-8a1c-a83197ac6fe7": {
+              "type": "view_all_card",
+              "settings": {
+                "text_alignment": "center-center",
+                "text_color": "#000000",
+                "overlay_color": "#eff1ec",
+                "overlay_opacity": 100
+              }
+            }
+          },
+          "block_order": [
+            "8d51c6dc-5e73-4c2a-8a1c-a83197ac6fe7"
+          ],
+          "settings": {
+            "layout": "slideshow",
+            "product_count": 5,
+            "cta_button_style": "primary"
+          }
+        },
+        "1614200365defc244d": {
+          "type": "dynamic-video",
+          "settings": {
+            "show_caption": false,
+            "caption": "",
+            "autoplay": false,
+            "aspect_ratio": "21-9",
+            "position": "top-center",
+            "show_overlay": false,
+            "background": "rgba(0,0,0,0)",
+            "opacity": 50
+          }
+        },
+        "1614200506785b5b76": {
+          "type": "dynamic-highlights-banner",
+          "blocks": {
+            "1614200506a43fc141-0": {
+              "type": "highlight",
+              "settings": {}
+            },
+            "1614200506a43fc141-1": {
+              "type": "highlight",
+              "settings": {}
+            },
+            "1614200506a43fc141-2": {
+              "type": "highlight",
+              "settings": {}
+            },
+            "1614200506a43fc141-3": {
+              "type": "highlight",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1614200506a43fc141-0",
+            "1614200506a43fc141-1",
+            "1614200506a43fc141-2",
+            "1614200506a43fc141-3"
+          ],
+          "settings": {
+            "section_spacing": true,
+            "section_width": "full-width",
+            "icon_layout": "center",
+            "color": "#000000",
+            "icon_color": "#000000",
+            "background_color": "#eff1ec",
+            "mobile_layout": "slider"
+          }
+        },
+        "161411770226fca04c": {
+          "type": "dynamic-collection-list",
+          "blocks": {
+            "161411770226fca04c-0": {
+              "type": "collection",
+              "settings": {}
+            },
+            "161411770226fca04c-1": {
+              "type": "collection",
+              "settings": {}
+            },
+            "161411770226fca04c-2": {
+              "type": "collection",
+              "settings": {}
+            },
+            "161411770226fca04c-4": {
+              "type": "collection",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "161411770226fca04c-0",
+            "161411770226fca04c-1",
+            "161411770226fca04c-2",
+            "161411770226fca04c-4"
+          ],
+          "settings": {
+            "thumbnail_columns_desktop": 4,
+            "thumbnail_columns_mobile": 2,
+            "cta_button_style": "primary"
+          }
+        },
+        "161420097465356c6c": {
+          "type": "dynamic-logo-list",
+          "blocks": {
+            "161420097465356c6c-0": {
+              "type": "logo",
+              "settings": {}
+            },
+            "161420097465356c6c-1": {
+              "type": "logo",
+              "settings": {}
+            },
+            "161420097465356c6c-2": {
+              "type": "logo",
+              "settings": {}
+            },
+            "161420097465356c6c-3": {
+              "type": "logo",
+              "settings": {}
+            },
+            "f3f15a50-e222-48da-add3-2181f19a4fe2": {
+              "type": "logo",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "161420097465356c6c-0",
+            "161420097465356c6c-1",
+            "161420097465356c6c-2",
+            "161420097465356c6c-3",
+            "f3f15a50-e222-48da-add3-2181f19a4fe2"
+          ],
+          "settings": {}
+        },
+        "static-article": {
+          "type": "static-article",
+          "settings": {
+            "featured_image_width": "full-width",
+            "show_date": true,
+            "show_author": true,
+            "use_share_buttons": true
+          }
+        },
+        "16147042426d80a2d7": {
+          "type": "pxs-newsletter",
+          "settings": {
+            "desktop_alignment": "left",
+            "mobile_alignment": "top"
+          }
+        }
+      },
+      "content_for_index": [
+        "16141176022c8b146f",
+        "16141169912db36a39",
+        "1614117520c9052570",
+        "1493145778308",
+        "161419869208faddc0",
+        "16141166870f790be5",
+        "161411770226fca04c",
+        "1493163784784",
+        "161420097465356c6c",
+        "1493143038057",
+        "1493166188493",
+        "1614200365defc244d",
+        "16141174150e86eb4e",
+        "16147042426d80a2d7",
+        "1614200506785b5b76"
+      ]
+    },
+    "Industrial": {
+      "color_background": "#ffffff",
+      "color_headings": "#000000",
+      "color_text": "#000000",
+      "color_text_light": "#949494",
+      "color_links": "#171f2b",
+      "color_button_background": "#1268f1",
+      "color_button_text": "#ffffff",
+      "color_button_secondary_background": "#ffffff",
+      "color_button_secondary_text": "#1268f1",
+      "color_button_secondary_border": "#dddddd",
+      "color_header_background": "#000000",
+      "color_header_text": "#ffffff",
+      "color_input_text": "#4d4d4d",
+      "color_input_background": "#ffffff",
+      "color_input_border": "#dddddd",
+      "color_product_sale_accent": "#e32619",
+      "color_product_review_star": "#171f2b",
+      "color_footer_background": "#f7f7f7",
+      "color_footer_text": "#000000",
+      "color_overlay": "#000000",
+      "overlay_opacity": 50,
+      "type_size_base": 16,
+      "type_heading": "arimo_n7",
+      "type_heading_size": "1",
+      "type_heading_capitalize": false,
+      "type_heading_spacing": -1,
+      "type_body": "libre_franklin_n4",
+      "type_menu": "libre_franklin_n6",
+      "type_menu_capitalize": false,
+      "type_menu_spacing": 0,
+      "type_button": "libre_franklin_n7",
+      "type_button_capitalize": false,
+      "type_button_spacing": 0,
+      "type_section": "arimo_n7",
+      "type_section_capitalize": false,
+      "type_section_spacing": -1,
+      "layout_max_width": 1400,
+      "product_show_vendor": true,
+      "product_show_sku": false,
+      "product_option_style": "select",
+      "product_sales_badge": true,
+      "product_sales_badge_style": "money",
+      "product_social_sharing": true,
+      "product_ratings_reviews": true,
+      "product_ratings_star_display": "all",
+      "product_grid_show_second_image": true,
+      "product_grid_emphasize_price": false,
+      "product_grid_image_style": "natural",
+      "product_grid_show_quickshop": "always",
+      "product_grid_show_atc": "always",
+      "quickshop_select_first_available_variant": false,
+      "quickshop_show_dcb": true,
+      "quickshop_product_cart_redirect": false,
+      "swatches_enable": true,
+      "swatches_swatch_trigger": "Color",
+      "swatches_shape": "circle",
+      "swatches_product_card_size": 32,
+      "swatches_product_page_size": 64,
+      "swatches_option_style": "variant_image",
+      "enable_checkout_lock_icon": false,
+      "continue_shopping_url": "shopify:\/\/collections\/all",
+      "continue_url_cart": true,
+      "continue_url_404": true,
+      "product_enable_recently_viewed_products": true,
+      "product_slideshow_style": "natural",
+      "gallery_thumbnail_position": "below",
+      "enable_image_zoom": false,
+      "image_zoom_level": "min",
+      "product_grid_quick_shop": true,
+      "product_grid_quick_buy": true,
+      "social_google": "",
+      "show_dcb": false,
+      "product_grid_quick_look": true,
+      "font_body": "Google_Lato_400,400i,700,700i",
+      "font_heading": "\"League Spartan\", sans-serif",
+      "quickshop_ratings": true,
+      "quickshop_redirect_to_cart": false,
+      "quickshop_sales_badge": true,
+      "quickshop_sales_badge_style": "percentile_save",
+      "quickshop_ratings_reviews": true,
+      "quickshop_enable_social_sharing": true,
+      "product_cart_redirect": false,
+      "show_breadcrumbs": true,
+      "quickshop_show_vendor": true,
+      "sections": {
+        "static-header": {
+          "type": "static-header",
+          "blocks": {
+            "1517255946962": {
+              "type": "meganav_images",
+              "settings": {
+                "position_1": "last",
+                "size_1": "large",
+                "position_2": "first",
+                "size_2": "small"
+              }
+            },
+            "1572476394007": {
+              "type": "multi_column_menu",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1517255946962",
+            "1572476394007"
+          ],
+          "settings": {
+            "sticky_header": true,
+            "full_width_header": false,
+            "logo_height": 40,
+            "logo_width": 150,
+            "filter_search_by": "disabled",
+            "enable_live_search": true,
+            "show_mobile_search_bar": false,
+            "enable_live_search_images": true,
+            "enable_live_search_articles_pages": true,
+            "quick_links": ""
+          }
+        },
+        "1520634789686": {
+          "type": "dynamic-featured-product",
+          "settings": {
+            "sold_out_options": "selectable",
+            "select_first_available_variant": true,
+            "show_dcb": false,
+            "product_cart_redirect": false,
+            "gallery_aspect_ratio": "natural",
+            "gallery_image_crop": false,
+            "gallery_thumbnail_position": "below",
+            "gallery_video_autoplay": true,
+            "gallery_video_looping": true,
+            "gallery_hover_zoom": "disabled"
+          }
+        },
+        "1517239645202": {
+          "type": "dynamic-search",
+          "settings": {
+            "title": "Tech worth searching for",
+            "text": "",
+            "placeholder": "What are you looking for?",
+            "filter_search_by": "disabled",
+            "enable_live_search": true,
+            "enable_live_search_images": true,
+            "enable_live_search_articles_pages": true,
+            "position": "top-center",
+            "show-overlay": false,
+            "color": "rgba(0,0,0,0)",
+            "background": "#ffffff",
+            "opacity": 50
+          }
+        },
+        "static-blog": {
+          "type": "static-blog",
+          "settings": {
+            "show_rss_link": true,
+            "show_date": true,
+            "show_author": true,
+            "show_excerpt": true,
+            "featured_post": "",
+            "posts_per_page_range": 9
+          }
+        },
+        "1493143038057": {
+          "type": "dynamic-promo-mosaic",
+          "blocks": {
+            "1493143038057-0": {
+              "type": "promotion",
+              "settings": {
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "#000000",
+                "opacity": 5
+              }
+            },
+            "1493143038057-1": {
+              "type": "promotion",
+              "settings": {
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "rgba(0,0,0,0)",
+                "opacity": 50
+              }
+            },
+            "1493143038057-2": {
+              "type": "promotion",
+              "settings": {
+                "color": "#fffcfc",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "",
+                "opacity": 50
+              }
+            },
+            "1493143583401": {
+              "type": "promotion",
+              "settings": {
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "",
+                "opacity": 50
+              }
+            },
+            "75ed4dc2-c69e-40a1-a22d-23955feaf160": {
+              "type": "promotion",
+              "settings": {
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "",
+                "opacity": 50
+              }
+            }
+          },
+          "block_order": [
+            "1493143038057-0",
+            "1493143038057-1",
+            "1493143038057-2",
+            "1493143583401",
+            "75ed4dc2-c69e-40a1-a22d-23955feaf160"
+          ],
+          "settings": {
+            "title": "",
+            "section_height": "small",
+            "text_alignment": "bottom-left",
+            "maintain_aspect_ratio": false,
+            "compress_blocks": true
+          }
+        },
+        "static-footer": {
+          "type": "static-footer",
+          "blocks": {
+            "1493171899575": {
+              "type": "social_accounts",
+              "settings": {}
+            },
+            "static-footer-0": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1498182586280": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1498182572847": {
+              "type": "menu",
+              "settings": {}
+            },
+            "static-footer-1": {
+              "type": "newsletter",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1493171899575",
+            "static-footer-0",
+            "1498182586280",
+            "1498182572847",
+            "static-footer-1"
+          ],
+          "settings": {
+            "payment_icons": false,
+            "show_locale_selector": true,
+            "show_currency_selector": true
+          }
+        },
+        "static-collection": {
+          "type": "static-collection",
+          "blocks": {
+            "1498186879532": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1498186836236": {
+              "type": "menu",
+              "settings": {}
+            },
+            "1572651808624": {
+              "type": "menu",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1498186879532",
+            "1498186836236",
+            "1572651808624"
+          ],
+          "settings": {
+            "show_collection_image": true,
+            "products_per_page_range": 24,
+            "products_per_row": "4",
+            "sort_by": true,
+            "show_by": true,
+            "grid_list": true,
+            "default_view": "list-view",
+            "show_sidebar": true,
+            "filter_style": "groups",
+            "filter_limit": "5",
+            "filter_position": "above_menus",
+            "grid_categories": "",
+            "menu_depth_range": 1
+          }
+        },
+        "1493163784784": {
+          "type": "dynamic-featured-collection",
+          "settings": {
+            "layout": "grid",
+            "product_count": 5,
+            "cta_button_style": "primary"
+          }
+        },
+        "1493171740659": {
+          "type": "dynamic-blog-posts",
+          "settings": {
+            "title": "",
+            "blog": "news",
+            "show_date": true,
+            "show_author": true,
+            "show_excerpt": true
+          }
+        },
+        "static-product": {
+          "type": "static-product",
+          "settings": {
+            "layout": "layout--three-col",
+            "sold_out_options": "selectable",
+            "select_first_available_variant": true,
+            "show_dcb": false,
+            "product_cart_redirect": false,
+            "gallery_aspect_ratio": "natural",
+            "gallery_image_crop": false,
+            "gallery_thumbnail_position": "below",
+            "gallery_video_autoplay": true,
+            "gallery_video_looping": true,
+            "gallery_hover_zoom": "disabled",
+            "gallery_click_to_zoom": "always"
+          }
+        },
+        "1540247561673": {
+          "type": "dynamic-promo-grid",
+          "blocks": {
+            "1540247561673-1": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-center",
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "rgba(0,0,0,0)",
+                "opacity": 50
+              }
+            },
+            "4728e5cd-f0af-46af-b27f-e8720b4b38a4": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-center",
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "rgba(0,0,0,0)",
+                "opacity": 50
+              }
+            },
+            "c3faa30f-4dd3-4ee8-a797-74974c49c96a": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-center",
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "",
+                "opacity": 50
+              }
+            },
+            "508dc09f-4352-4c7e-a2d1-fcf41d54b02a": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-center",
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": true,
+                "background": "#000000",
+                "opacity": 10
+              }
+            },
+            "e402cfbd-00b6-439a-9256-76081b8cfe7d": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-center",
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "",
+                "opacity": 50
+              }
+            },
+            "1540247561673-0": {
+              "type": "promotion",
+              "settings": {
+                "background_position": "center-center",
+                "color": "#ffffff",
+                "button_style": "primary",
+                "show_overlay": false,
+                "background": "#000000",
+                "opacity": 5
+              }
+            }
+          },
+          "block_order": [
+            "1540247561673-1",
+            "4728e5cd-f0af-46af-b27f-e8720b4b38a4",
+            "c3faa30f-4dd3-4ee8-a797-74974c49c96a",
+            "508dc09f-4352-4c7e-a2d1-fcf41d54b02a",
+            "e402cfbd-00b6-439a-9256-76081b8cfe7d",
+            "1540247561673-0"
+          ],
+          "settings": {
+            "section_height": "medium",
+            "section_columns": 3,
+            "text_alignment": "top-left"
+          }
+        },
+        "static-announcement": {
+          "type": "static-announcement",
+          "settings": {
+            "show_announcement": false,
+            "homepage_announcement": false,
+            "announcement_color": "#ffffff",
+            "announcement_background": "#123570"
+          }
+        },
+        "static-product-recommendations": {
+          "type": "static-product-recommendations",
+          "settings": {
+            "show_product_recommendations": true
+          }
+        },
+        "static-product-reviews": {
+          "type": "static-product-reviews",
+          "settings": {}
+        },
+        "static-recently-viewed": {
+          "type": "static-recently-viewed",
+          "settings": {
+            "enable_recently_viewed_products": true
+          }
+        },
+        "16148873141aeef74c": {
+          "type": "dynamic-highlights-banner",
+          "blocks": {
+            "16148873141aeef74c-0": {
+              "type": "highlight",
+              "settings": {}
+            },
+            "16148873141aeef74c-1": {
+              "type": "highlight",
+              "settings": {}
+            },
+            "16148873141aeef74c-2": {
+              "type": "highlight",
+              "settings": {}
+            },
+            "b5dd1425-9d82-4afb-96d4-98a0c65f48d6": {
+              "type": "highlight",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "16148873141aeef74c-0",
+            "16148873141aeef74c-1",
+            "16148873141aeef74c-2",
+            "b5dd1425-9d82-4afb-96d4-98a0c65f48d6"
+          ],
+          "settings": {
+            "section_spacing": false,
+            "section_width": "full-width",
+            "icon_layout": "left",
+            "color": "#212121",
+            "icon_color": "#000000",
+            "background_color": "#f8f8f8",
+            "mobile_layout": "slider"
+          }
+        },
+        "16148876196818e98f": {
+          "type": "dynamic-collection-list",
+          "blocks": {
+            "16148876196818e98f-1": {
+              "type": "collection",
+              "settings": {}
+            },
+            "16148876196818e98f-0": {
+              "type": "collection",
+              "settings": {}
+            },
+            "c6bff024-c5ba-478c-9e72-2a037456daa9": {
+              "type": "collection",
+              "settings": {}
+            },
+            "16148876196818e98f-2": {
+              "type": "collection",
+              "settings": {}
+            },
+            "c1ec3c44-4680-4036-a8c1-7b081d9e42ca": {
+              "type": "collection",
+              "settings": {}
+            },
+            "16148876196818e98f-3": {
+              "type": "collection",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "16148876196818e98f-1",
+            "16148876196818e98f-0",
+            "c6bff024-c5ba-478c-9e72-2a037456daa9",
+            "16148876196818e98f-2",
+            "c1ec3c44-4680-4036-a8c1-7b081d9e42ca",
+            "16148876196818e98f-3"
+          ],
+          "settings": {
+            "thumbnail_columns_desktop": 6,
+            "thumbnail_columns_mobile": 3,
+            "cta_button_style": "primary"
+          }
+        },
+        "1614888648117eaaca": {
+          "type": "dynamic-testimonials",
+          "blocks": {
+            "1614888648117eaaca-0": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "1614888648117eaaca-2": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "e16e80d1-1eca-47e7-b874-a5c192897f2c": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "1614888648117eaaca-1": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "ca53594b-553b-49f8-b7aa-e6eab8ebfb12": {
+              "type": "testimonial",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1614888648117eaaca-0",
+            "1614888648117eaaca-2",
+            "e16e80d1-1eca-47e7-b874-a5c192897f2c",
+            "1614888648117eaaca-1",
+            "ca53594b-553b-49f8-b7aa-e6eab8ebfb12"
+          ],
+          "settings": {
+            "image_crop": "rounded",
+            "text_size": "medium"
+          }
+        },
+        "1614889820dc29d9d9": {
+          "type": "dynamic-shoppable-image",
+          "blocks": {
+            "1614889820dc29d9d9-0": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 31,
+                "y_axis": 87
+              }
+            },
+            "1614889820dc29d9d9-1": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 48,
+                "y_axis": 60
+              }
+            },
+            "1614889820dc29d9d9-2": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 93,
+                "y_axis": 95
+              }
+            },
+            "0920a93f-9d1b-47de-bf41-520a560a4bf1": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 90,
+                "y_axis": 23
+              }
+            },
+            "056c4860-f12b-4dee-a3f1-a4ae9c8ccb93": {
+              "type": "hotspot",
+              "settings": {
+                "x_axis": 72,
+                "y_axis": 81
+              }
+            }
+          },
+          "block_order": [
+            "1614889820dc29d9d9-0",
+            "1614889820dc29d9d9-1",
+            "1614889820dc29d9d9-2",
+            "0920a93f-9d1b-47de-bf41-520a560a4bf1",
+            "056c4860-f12b-4dee-a3f1-a4ae9c8ccb93"
+          ],
+          "settings": {
+            "image_width": "two-thirds",
+            "textbox_button_style": "primary",
+            "textbox_text_alignment": "left",
+            "textbox_text_position": "right"
+          }
+        },
+        "1614958013d7fa3cc2": {
+          "type": "dynamic-logo-list",
+          "blocks": {
+            "1614958013d7fa3cc2-1": {
+              "type": "logo",
+              "settings": {}
+            },
+            "1614958013d7fa3cc2-0": {
+              "type": "logo",
+              "settings": {}
+            },
+            "1614958013d7fa3cc2-3": {
+              "type": "logo",
+              "settings": {}
+            },
+            "1614958013d7fa3cc2-2": {
+              "type": "logo",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1614958013d7fa3cc2-1",
+            "1614958013d7fa3cc2-0",
+            "1614958013d7fa3cc2-3",
+            "1614958013d7fa3cc2-2"
+          ],
+          "settings": {
+            "title": "Tech From Top Brands"
+          }
+        },
+        "1615570666e22db6b4": {
+          "type": "pxs-image-with-text-overlay",
+          "settings": {
+            "section_height": "small",
+            "position": "center left",
+            "content_position": "center-left",
+            "color": "#1d252c",
+            "overlay_background": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "1615909753bb5c022b": {
+          "type": "dynamic-featured-collection",
+          "blocks": {
+            "74cae1fc-d982-4c56-bf63-ab697b42e5ae": {
+              "type": "title_card",
+              "settings": {
+                "horizontal_size": "1",
+                "vertical_size": "2",
+                "text_alignment": "center-center",
+                "text_color": "#ffffff",
+                "overlay_color": "#000000",
+                "overlay_opacity": 40
+              }
+            }
+          },
+          "block_order": [
+            "74cae1fc-d982-4c56-bf63-ab697b42e5ae"
+          ],
+          "settings": {
+            "layout": "grid",
+            "product_count": 8,
+            "cta_button_style": "primary"
+          }
+        },
+        "static-article": {
+          "type": "static-article",
+          "settings": {
+            "featured_image_width": "full-width",
+            "show_date": true,
+            "show_author": true,
+            "use_share_buttons": true
+          }
+        },
+        "static-list-collections": {
+          "type": "static-list-collections",
+          "settings": {
+            "thumbnail_columns_desktop": 4,
+            "thumbnail_columns_mobile": 3
+          }
+        }
+      },
+      "content_for_index": [
+        "16148873141aeef74c",
+        "1493143038057",
+        "16148876196818e98f",
+        "1493163784784",
+        "1614889820dc29d9d9",
+        "1520634789686",
+        "1614958013d7fa3cc2",
+        "1540247561673",
+        "1615909753bb5c022b",
+        "1614888648117eaaca",
+        "1615570666e22db6b4",
+        "1493171740659",
+        "1517239645202"
+      ]
+    }
+  }
+}

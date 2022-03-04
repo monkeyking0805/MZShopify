@@ -1,0 +1,73 @@
+<div class="sidebar">
+  {% if section.settings.b_menu == true %}
+  <div class="sb-menu">
+    <h1>SERVICE & SUPPORT</h1>
+    <ul>
+      {% for link in linklists[section.settings.menu].links %}
+        <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+  {% if section.settings.rifle == true %}
+  <div class="sb-rifle">
+    <img src="{{ 'shop-now-sidebar.jpg' | asset_url }}">
+  </div>
+  {% endif %}
+  {% if section.settings.google-review == true %}
+  <div class="google-review">
+    <div class="google-image-link">
+      <a href="https://g.page/muzzleloaderscom/review" target="_blank"><img src="{{ 'google-reviews.png' | asset_url }}"></a>
+    </div>
+    <div class="all-google-reviews">
+      <a href="https://g.page/muzzleloaderscom/review" target="_blank">See All Our Google Reviews</a>
+    </div>
+    <div class="talk-an-expert">
+      <img src="{{ 'customer-service-guy.png' | asset_url }}">
+      <br>
+      <img src="{{ 'phone.svg' | asset_url }}">
+    </div>
+    <br>
+    <br>
+    <div class="lookup-logo">
+      <img src="{{ 'lookuplogo.svg' | asset_url }}">
+    </div>
+  </div>
+  {% endif %}
+</div>
+{% schema %}
+  {
+    "name": "CMS Sidebar",
+    "settings": [
+      {
+        "id": "b_menu",
+        "type": "checkbox",
+        "default": true,
+        "label": "Show Service & Support Menu?"
+      },
+      {
+        "id": "menu",
+        "type": "link_list",
+        "label": "Service & Support Menu"
+      },
+      {
+        "id": "rifle",
+        "type": "checkbox",
+        "default": true,
+        "label": "Show Shop Rifle Image?"
+      },
+      {
+        "id": "google-review",
+        "type": "checkbox",
+        "default": true,
+        "label": "Show Google Reviews?"
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

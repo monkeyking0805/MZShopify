@@ -1,0 +1,91 @@
+<section
+         class="product-section--container product-row--container product-recommendations--container"
+         data-html
+         data-product-recommendations
+         >
+</section>
+
+<section
+         class="product-section--container product-row--container product-recommendations--container order-1"
+         data-html
+         data-product-recommendations
+         >
+  <h2 class="product-section--title product-recommendations--title">
+     Specifications
+  </h2>
+
+  <div
+      class="product-section--content product-row product-single__description rte"
+      data-product-row
+      >
+    <div class="data-description">
+      {% comment %}
+        product.metafields.global.model_no 
+      {% endcomment %}
+      <div id="specification-chart">
+        {{ product.metafields.global.specification_chart }}
+      </div>
+      {% comment %}
+        product.metafields.global.product_video_block
+      {% endcomment %}
+    </div>
+  </div>
+</section>
+
+<section
+         class="product-section--container product-row--container product-recommendations--container order-2"
+         data-html
+         data-product-recommendations
+         >
+  <h2 class="product-section--title product-recommendations--title">
+      Features
+  </h2>
+
+  <div
+      class="product-section--content product-row product-single__description rte"
+      data-product-row
+      >
+    <div class="data-description">
+      {{ product.metafields.global.product_rightside }}
+      {{ product.metafields.global.product_pdf_block }}
+    </div>
+  </div>
+</section>
+
+
+{% if settings.product_ratings_reviews %}
+  <section class="product-section--container order-3" data-product-reviews>
+    <div class="product-section--content product-reviews--content">
+      <div id="shopify-product-reviews" data-id="{{product.id}}">{{ product.metafields.spr.reviews }}</div>
+    </div>
+  </section>
+{% endif %}
+
+{% schema %}
+{
+  "name": "Product reviews",
+  "class": "product-reviews--section",
+  "settings": [
+    {
+      "type": "paragraph",
+      "content": "This section becomes visible by turning on \"Enable product reviews and ratings\" in the Theme settings."
+    }
+  ]
+}
+
+{% endschema %}
+{%- assign current_variant = product.selected_or_first_available_variant -%}
+<script type="text/javascript">
+let tbody = document.getElementById("specification-chart").getElementsByTagName("tbody")[0];
+let tr = document.createElement("tr");
+tr.className = "firstSpec";
+let td1 = document.createElement("td");
+td1.append("SPECIFICATIONS/OPTIONS");
+let td2 = document.createElement("td");
+let center = document.createElement("center");
+center.append("{{current_variant.sku}}");
+td2.append(center);
+tr.append(td1);
+tr.append(td2);
+tbody.prepend(tr);
+</script>

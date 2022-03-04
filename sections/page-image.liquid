@@ -1,0 +1,27 @@
+<div class="page-image">
+  <img src="{{ section.settings.image | img_url: 'master' }}" alt="">
+  <h2>{{ section.settings.title }}</h2>
+</div>
+{% schema %}
+  {
+    "name": "Page Image",
+    "settings": [
+      {
+        "id": "title",
+        "type": "text",
+        "label": "Title"
+      },
+      {
+        "id": "image",
+        "type": "image_picker",
+        "label": "Page Image Picker"
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

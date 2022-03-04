@@ -1,0 +1,10 @@
+<ul class="cartitems--list" data-cart-item-list>
+  {% for item in cart.items %}
+  {% if item.product.type  == 'mw_hidden_cart_fee' %}{% continue %}{% endif %}
+    {%
+      render 'cart-item',
+      item: item,
+      item_index: forloop.index,
+    %}
+  {% endfor %}
+</ul>

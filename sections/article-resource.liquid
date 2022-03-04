@@ -1,0 +1,65 @@
+<div class="ar-container">
+  <ul class="ar-blog-inner row-per-{{section.settings.posts_per_row}}">
+    {% for block in section.blocks %}
+      <li>
+        <div class="blog-img-container">
+          <a href="{{ block.settings.blog.url }}">
+            <img src="{{ block.settings.image | img_url: 'master' }}" alt="Blog Image">
+          </a>
+        </div>
+        <div class="blog-title-container">
+          <a href="{{ block.settings.blog.url }}">
+            {{ block.settings.blog.title }}
+          </a>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% schema %}
+  {
+    "name": "Article Resource",
+    "max_blocks": 6,
+    "settings": [
+      {
+        "type": "range",
+        "id": "posts_per_row",
+        "label": "Posts per page",
+        "min": 1,
+        "max": 3,
+        "step": 1,
+        "default": 2
+      }
+    ],
+    "blocks": [
+      {
+        "name": "Articles",
+        "type": "Article",
+        "limit": 6,
+        "settings": [
+          {
+            "id": "blog",
+            "type": "blog",
+            "label": "Blog"
+          },
+          {
+            "id": "image",
+            "type": "image_picker",
+            "label": "Blog Image"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
+<style>
+.blog-title-container {
+  padding-bottom: 10px;
+}
+</style>

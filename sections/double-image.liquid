@@ -1,0 +1,58 @@
+<div class="double-image">
+  {% for block in section.blocks %}
+  <div class="contact-image">
+    <div class="img-container">
+      <img src="{{ block.settings.img | img_url: 'master' }}" alt="">
+    </div>
+    <div class="content-container">
+      <div class="title">
+        <h2>{{ block.settings.title }}</h2>
+      </div>
+      <div class="content">
+        {{ block.settings.content }}
+      </div>
+      <a href="mailto:{{ block.settings.mail }}"><i class="fa fa-envelope"></i> {{ block.settings.mail }}</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% schema %}
+  {
+    "name": "Images",
+    "max_blocks": 2,
+    "blocks": [
+      {
+        "type": "image",
+        "name": "Image",
+        "settings": [
+          {
+            "id": "img",
+            "type": "image_picker",
+            "label": "Image"
+          },
+          {
+            "id": "title",
+            "type": "text",
+            "label": "Title"
+          },
+          {
+            "id": "content",
+            "type": "richtext",
+            "label": "Content"
+          },
+          {
+            "id": "mail",
+            "type": "text",
+            "label": "Mail"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
